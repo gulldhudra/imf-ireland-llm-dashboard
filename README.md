@@ -20,4 +20,5 @@ pypdf extraction → cleaning (headers, footers, chart axis noise, line merging)
 ## Notes
 - The policy rate is not stated in the report (the ECB sets euro-area rates), so it carries the `-1.0` fallback with a recorded reason.
 - Source document: © International Monetary Fund, included for reproducibility of this coursework only.
+- The files in `outputs/` and the saved notebook outputs come from one Colab run (89 LLM calls, 87 on `gemini-3.5-flash`, 2 on `gemini-3.5-flash-lite`); see `outputs/run_manifest.json`.
 - Licence: MIT (code). See `LICENSE`.
