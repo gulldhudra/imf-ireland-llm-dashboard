@@ -1,0 +1,301 @@
+{
+  "counts": {
+    "Inflation & Prices": 47,
+    "Interest Rates & Credit": 68,
+    "Housing & Real Estate": 112,
+    "Banking Capital & Liquidity": 104,
+    "Sovereign Debt": 154,
+    "Labor Market Dynamics": 66,
+    "Systemic Financial Risk": 110
+  },
+  "density_per_1000_words": {
+    "Inflation & Prices": 3.09,
+    "Interest Rates & Credit": 4.46,
+    "Housing & Real Estate": 7.35,
+    "Banking Capital & Liquidity": 6.83,
+    "Sovereign Debt": 10.11,
+    "Labor Market Dynamics": 4.33,
+    "Systemic Financial Risk": 7.22
+  },
+  "chunks_with_theme": {
+    "Inflation & Prices": 24,
+    "Interest Rates & Credit": 27,
+    "Housing & Real Estate": 40,
+    "Banking Capital & Liquidity": 36,
+    "Sovereign Debt": 49,
+    "Labor Market Dynamics": 25,
+    "Systemic Financial Risk": 39
+  },
+  "n_chunks": 95,
+  "narrative_words": 15231,
+  "per_section": {
+    "Inflation & Prices": {
+      "CONTEXT": 0,
+      "RECENT DEVELOPMENTS": 18,
+      "OUTLOOK AND RISKS": 9,
+      "A. Fiscal Policy": 2,
+      "B. Financial and Macroprudential Policies": 3,
+      "C. Structural Policy": 0,
+      "STAFF APPRAISAL": 4,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 0,
+      "Annex II. Implementation of Past IMF Recommendations": 0,
+      "Annex III. Risk Assessment Matrix": 5,
+      "Annex IV. External Sector Assessment": 0,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 6,
+      "Annex VI. Data Issues": 0
+    },
+    "Interest Rates & Credit": {
+      "CONTEXT": 0,
+      "RECENT DEVELOPMENTS": 21,
+      "OUTLOOK AND RISKS": 2,
+      "A. Fiscal Policy": 1,
+      "B. Financial and Macroprudential Policies": 27,
+      "C. Structural Policy": 1,
+      "STAFF APPRAISAL": 0,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 0,
+      "Annex II. Implementation of Past IMF Recommendations": 1,
+      "Annex III. Risk Assessment Matrix": 0,
+      "Annex IV. External Sector Assessment": 1,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 14,
+      "Annex VI. Data Issues": 0
+    },
+    "Housing & Real Estate": {
+      "CONTEXT": 1,
+      "RECENT DEVELOPMENTS": 23,
+      "OUTLOOK AND RISKS": 3,
+      "A. Fiscal Policy": 10,
+      "B. Financial and Macroprudential Policies": 13,
+      "C. Structural Policy": 33,
+      "STAFF APPRAISAL": 6,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 1,
+      "Annex II. Implementation of Past IMF Recommendations": 10,
+      "Annex III. Risk Assessment Matrix": 8,
+      "Annex IV. External Sector Assessment": 4,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 0,
+      "Annex VI. Data Issues": 0
+    },
+    "Banking Capital & Liquidity": {
+      "CONTEXT": 0,
+      "RECENT DEVELOPMENTS": 3,
+      "OUTLOOK AND RISKS": 0,
+      "A. Fiscal Policy": 0,
+      "B. Financial and Macroprudential Policies": 71,
+      "C. Structural Policy": 1,
+      "STAFF APPRAISAL": 7,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 1,
+      "Annex II. Implementation of Past IMF Recommendations": 5,
+      "Annex III. Risk Assessment Matrix": 0,
+      "Annex IV. External Sector Assessment": 1,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 15,
+      "Annex VI. Data Issues": 0
+    },
+    "Sovereign Debt": {
+      "CONTEXT": 0,
+      "RECENT DEVELOPMENTS": 3,
+      "OUTLOOK AND RISKS": 0,
+      "A. Fiscal Policy": 39,
+      "B. Financial and Macroprudential Policies": 4,
+      "C. Structural Policy": 0,
+      "STAFF APPRAISAL": 6,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 0,
+      "Annex II. Implementation of Past IMF Recommendations": 6,
+      "Annex III. Risk Assessment Matrix": 8,
+      "Annex IV. External Sector Assessment": 7,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 81,
+      "Annex VI. Data Issues": 0
+    },
+    "Labor Market Dynamics": {
+      "CONTEXT": 3,
+      "RECENT DEVELOPMENTS": 29,
+      "OUTLOOK AND RISKS": 3,
+      "A. Fiscal Policy": 1,
+      "B. Financial and Macroprudential Policies": 1,
+      "C. Structural Policy": 11,
+      "STAFF APPRAISAL": 3,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 3,
+      "Annex II. Implementation of Past IMF Recommendations": 0,
+      "Annex III. Risk Assessment Matrix": 12,
+      "Annex IV. External Sector Assessment": 0,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 0,
+      "Annex VI. Data Issues": 0
+    },
+    "Systemic Financial Risk": {
+      "CONTEXT": 2,
+      "RECENT DEVELOPMENTS": 2,
+      "OUTLOOK AND RISKS": 3,
+      "A. Fiscal Policy": 5,
+      "B. Financial and Macroprudential Policies": 47,
+      "C. Structural Policy": 2,
+      "STAFF APPRAISAL": 21,
+      "STATISTICAL TABLES": 0,
+      "Annex I. GDP and Exports Growth in 2025": 1,
+      "Annex II. Implementation of Past IMF Recommendations": 4,
+      "Annex III. Risk Assessment Matrix": 14,
+      "Annex IV. External Sector Assessment": 3,
+      "Annex V. Sovereign Risk and Debt Sustainability Framework": 6,
+      "Annex VI. Data Issues": 0
+    }
+  },
+  "top_terms": {
+    "Inflation & Prices": [
+      [
+        "inflation",
+        37
+      ],
+      [
+        "energy prices",
+        4
+      ],
+      [
+        "hicp",
+        2
+      ],
+      [
+        "energy price",
+        1
+      ],
+      [
+        "price pressures",
+        1
+      ]
+    ],
+    "Interest Rates & Credit": [
+      [
+        "credit",
+        20
+      ],
+      [
+        "loans",
+        11
+      ],
+      [
+        "interest rate",
+        10
+      ],
+      [
+        "lending",
+        9
+      ],
+      [
+        "interest rates",
+        3
+      ]
+    ],
+    "Housing & Real Estate": [
+      [
+        "housing",
+        39
+      ],
+      [
+        "property",
+        20
+      ],
+      [
+        "construction",
+        12
+      ],
+      [
+        "rent",
+        8
+      ],
+      [
+        "cre",
+        7
+      ]
+    ],
+    "Banking Capital & Liquidity": [
+      [
+        "banks",
+        34
+      ],
+      [
+        "bank",
+        23
+      ],
+      [
+        "liquidity",
+        7
+      ],
+      [
+        "banking",
+        5
+      ],
+      [
+        "asset quality",
+        5
+      ]
+    ],
+    "Sovereign Debt": [
+      [
+        "debt",
+        57
+      ],
+      [
+        "public debt",
+        22
+      ],
+      [
+        "fiscal stance",
+        11
+      ],
+      [
+        "sovereign",
+        10
+      ],
+      [
+        "mtfsp",
+        8
+      ]
+    ],
+    "Labor Market Dynamics": [
+      [
+        "labor",
+        24
+      ],
+      [
+        "employment",
+        14
+      ],
+      [
+        "unemployment",
+        6
+      ],
+      [
+        "workers",
+        4
+      ],
+      [
+        "vacancy",
+        3
+      ]
+    ],
+    "Systemic Financial Risk": [
+      [
+        "shocks",
+        14
+      ],
+      [
+        "non-bank",
+        13
+      ],
+      [
+        "vulnerabilities",
+        10
+      ],
+      [
+        "macroprudential",
+        9
+      ],
+      [
+        "financial sector",
+        8
+      ]
+    ]
+  }
+}

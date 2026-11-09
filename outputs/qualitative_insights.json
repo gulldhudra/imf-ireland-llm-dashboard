@@ -1,0 +1,91 @@
+{
+  "strengths": [
+    {
+      "item": "Attractive hub for multinational enterprises",
+      "evidence_quote": "A conducive business environment, sound institutions and policies, and a well-educated labor force have continued to position the country as an attractive hub for multinational enterprises (MNEs) in knowledge-intensive sectors.",
+      "quote_verified": true,
+      "page": 4
+    },
+    {
+      "item": "Strong continued economic growth",
+      "evidence_quote": "Despite trade and geopolitical tensions and elevated uncertainty, the Irish economy has continued to grow strongly.",
+      "quote_verified": true,
+      "page": 5
+    },
+    {
+      "item": "Robust modified domestic demand growth",
+      "evidence_quote": "Robust private consumption and modified investment supported modified domestic demand (MDD)2, which grew by 4.9 percent last year.",
+      "quote_verified": true,
+      "page": 5
+    },
+    {
+      "item": "Sizable headline fiscal surplus",
+      "evidence_quote": "Robust corporate tax revenue contributed to a sizable headline fiscal surplus (1.8 percent of GDP or 3.3 percent of GNI*) in 2025.",
+      "quote_verified": true,
+      "page": 8
+    },
+    {
+      "item": "Declining public debt ratio",
+      "evidence_quote": "Public debt declined further to about 33 percent of GDP (62 percent of GNI*) at end-2025.",
+      "quote_verified": true,
+      "page": 8
+    },
+    {
+      "item": "Resilient financial system",
+      "evidence_quote": "The financial system has proven resilient in the face of external shocks.",
+      "quote_verified": true,
+      "page": 26
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "item": "Reliance on FDI and MNE tax revenues",
+      "evidence_quote": "Nevertheless, Ireland’s resilience will continue to be tested, as its reliance on FDI and tax revenue from a handful of MNEs presents significant risks in a more shock-prone and fragmented world.",
+      "quote_verified": true,
+      "page": 4
+    },
+    {
+      "item": "Housing and infrastructure gaps",
+      "evidence_quote": "Domestically, housing and infrastructure gaps and muted private investment, if left unaddressed, could weaken competitiveness and slow the adoption of new technologies.",
+      "quote_verified": true,
+      "page": 4
+    },
+    {
+      "item": "Leverage and liquidity mismatches in non-banks",
+      "evidence_quote": "But vulnerabilities in segments of Ireland’s large and complex non-bank sector related to leverage and liquidity mismatches could amplify and transmit adverse shocks.",
+      "quote_verified": true,
+      "page": 26
+    },
+    {
+      "item": "High energy import dependency",
+      "evidence_quote": "Ireland’s fossil-fuel-intensive energy mix and high import dependency make it vulnerable to energy price shocks.",
+      "quote_verified": true,
+      "page": 10
+    },
+    {
+      "item": "Geoeconomic fragmentation and protectionism",
+      "evidence_quote": "Furthermore, rising geoeconomic fragmentation and protectionism along with elevated policy uncertainty could lead to further reorganization of supply chains and shifts in trade and capital flows that would be detrimental to Ireland’s globally integrated economy.",
+      "quote_verified": true,
+      "page": 10
+    },
+    {
+      "item": "Risks from AI landscape and cybersecurity",
+      "evidence_quote": "The rapidly evolving landscape of AI poses novel risks: misuse of AI technologies could threaten cybersecurity and a revision in expectations of AI-driven productivity gains could trigger steep financial market corrections.",
+      "quote_verified": true,
+      "page": 10
+    },
+    {
+      "item": "Rising systemic risks",
+      "evidence_quote": "Systemic risks have risen, warranting ongoing vigilance to safeguard financial stability.",
+      "quote_verified": true,
+      "page": 26
+    }
+  ],
+  "judge": {
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The output accurately extracts exact text quotes from the source document to list Ireland's strengths and vulnerabilities, following all length constraints and task requirements. There are no factual errors or unsupported claims."
+  }
+}

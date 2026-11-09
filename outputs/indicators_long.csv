@@ -1,0 +1,1205 @@
+series,table,group,label,year,value,is_projection
+T5 |  | Return on assets,T5,,Return on assets,2021,0.6,False
+T5 |  | Return on equity,T5,,Return on equity,2021,6.5,False
+T5 |  | Net interest margin,T5,,Net interest margin,2021,1.7,False
+T5 |  | Cost-to-income ratio,T5,,Cost-to-income ratio,2021,74.8,False
+T5 |  | NPL ratio,T5,,NPL ratio,2021,3.5,False
+T5 |  | Coverage ratio,T5,,Coverage ratio,2021,31.7,False
+T5 |  | CT1 ratio,T5,,CT1 ratio,2021,18.1,False
+T5 |  | Net loan to deposit ratio,T5,,Net loan to deposit ratio,2021,75.2,False
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2022,7.5,False
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2022,3.3,False
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2022,7.7,False
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2022,2.5,False
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2022,10.8,False
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2022,2.8,False
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2022,12.0,False
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2022,15.0,False
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2022,2.2,False
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2022,4.5,False
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2022,3.0,False
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2022,0.6,False
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2022,0.9,False
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2022,2.2,False
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2022,0.7,False
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2022,8.1,False
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2022,5.0,False
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2022,8.0,False
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2022,6.9,False
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2022,4.5,False
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2022,22.3,False
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2022,20.6,False
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2022,1.6,False
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2022,3.2,False
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2022,2.3,False
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2022,1.6,False
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2022,-0.4,False
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2022,43.0,False
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2022,83.9,False
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2022,39.4,False
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2022,8.8,False
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2022,187.7,False
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2022,31.6,False
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2022,29.0,False
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2022,2.7,False
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2022,22.9,False
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2022,520.7,False
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2022,266.7,False
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2022,8.4,False
+T2 |  | Revenue,T2,,Revenue,2022,22.3,False
+T2 |  | Taxes,T2,,Taxes,2022,17.1,False
+T2 |  | Personal income tax,T2,,Personal income tax,2022,6.3,False
+T2 |  | Corporate income tax,T2,,Corporate income tax,2022,4.4,False
+T2 |  | VAT,T2,,VAT,2022,3.7,False
+T2 |  | Excises,T2,,Excises,2022,1.0,False
+T2 |  | Other taxes,T2,,Other taxes,2022,1.6,False
+T2 |  | Social contributions,T2,,Social contributions,2022,3.8,False
+T2 |  | Other revenue,T2,,Other revenue,2022,1.3,False
+T2 |  | Expenditure,T2,,Expenditure,2022,20.6,False
+T2 |  | Expense,T2,,Expense,2022,18.6,False
+T2 |  | Compensation of employees,T2,,Compensation of employees,2022,5.5,False
+T2 |  | Use of goods and services,T2,,Use of goods and services,2022,3.3,False
+T2 |  | Interest,T2,,Interest,2022,0.6,False
+T2 |  | Subsidies,T2,,Subsidies,2022,0.7,False
+T2 |  | Social benefits,T2,,Social benefits,2022,7.1,False
+T2 |  | Other expense,T2,,Other expense,2022,1.3,False
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2022,2.0,False
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2022,1.6,False
+T2 |  | Net financial transactions,T2,,Net financial transactions,2022,1.4,False
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2022,-1.1,False
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2022,-2.5,False
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2022,1.6,False
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2022,-0.4,False
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2022,43.0,False
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2022,83.9,False
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2022,193.0,False
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2022,1.6,False
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2022,3.2,False
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2022,37.1,False
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2022,72.4,False
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2022,2.9,False
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2022,6.3,False
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2022,520.7,False
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2022,45.6,False
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2022,8.8,False
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2022,214.8,False
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2022,41.3,False
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2022,205.1,False
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2022,354.8,False
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2022,149.7,False
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2022,9.7,False
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2022,-164.5,False
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2022,-31.6,False
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2022,-4.7,False
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2022,-0.9,False
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2022,44.4,False
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2022,8.5,False
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2022,25.0,False
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2022,-138.8,False
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2022,157.7,False
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2022,0.5,False
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2022,-0.4,False
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2022,-110.4,False
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2022,-26.7,False
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2022,-148.3,False
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2022,62.3,False
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2022,2.3,False
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2022,550.5,False
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2022,187.7,False
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2022,362.7,False
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2022,202.6,False
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2022,347.9,False
+T4 |  | Net foreign assets,T4,,Net foreign assets,2022,279.2,False
+T4 |  | Claims on nonresidents,T4,,Claims on nonresidents,2022,1199.5,False
+T4 |  | Central Bank,T4,,Central Bank,2022,128.8,False
+T4 |  | Other Depository Corporations,T4,,Other Depository Corporations,2022,1070.7,False
+T4 |  | Liabilities to Nonresidents,T4,,Liabilities to Nonresidents,2022,-920.4,False
+T4 |  | Central Bank #2,T4,,Central Bank,2022,-5.9,False
+T4 |  | Other Depository Corporations #2,T4,,Other Depository Corporations,2022,-914.5,False
+T4 |  | Net domestic assets,T4,,Net domestic assets,2022,206.8,False
+T4 |  | Net Claims on Central Government,T4,,Net Claims on Central Government,2022,45.9,False
+T4 |  | Claims on State and Local Government,T4,,Claims on State and Local Government,2022,0.1,False
+T4 |  | Claims on Public Nonfinancial Corporations,T4,,Claims on Public Nonfinancial Corporations,2022,0.0,False
+T4 |  | Claims on NBFIs,T4,,Claims on NBFIs,2022,139.0,False
+T4 |  | Claims on private sector,T4,,Claims on private sector,2022,132.5,False
+T4 |  | Corporates,T4,,Corporates,2022,31.9,False
+T4 |  | Households,T4,,Households,2022,100.6,False
+T4 |  | Capital and Reserves (-),T4,,Capital and Reserves (-),2022,90.8,False
+"T4 |  | Other items, net (-, including discrepancy)",T4,,"Other items, net (-, including discrepancy)",2022,19.8,False
+T4 |  | Broad Money,T4,,Broad Money,2022,342.6,False
+T4 |  | Currency in Circulation,T4,,Currency in Circulation,2022,24.0,False
+T4 |  | Transferable Deposits,T4,,Transferable Deposits,2022,253.4,False
+T4 |  | Other Deposits,T4,,Other Deposits,2022,62.1,False
+T4 |  | Securities,T4,,Securities,2022,3.2,False
+T4 |  | Other Liabilities,T4,,Other Liabilities,2022,143.4,False
+T4 |  | Net foreign assets #2,T4,,Net foreign assets,2022,2.5,False
+T4 |  | Net domestic assets #2,T4,,Net domestic assets,2022,36.8,False
+T4 |  | Claims on private sector #2,T4,,Claims on private sector,2022,11.5,False
+T4 |  | Corporates #2,T4,,Corporates,2022,4.0,False
+T4 |  | Households #2,T4,,Households,2022,14.2,False
+T4 |  | Broad Money #2,T4,,Broad Money,2022,2.5,False
+T4 |  | Net foreign assets #3,T4,,Net foreign assets,2022,295.6,False
+T4 |  | Net domestic assets #3,T4,,Net domestic assets,2022,219.0,False
+T4 |  | Claims on private sector #3,T4,,Claims on private sector,2022,140.3,False
+T4 |  | Corporates #3,T4,,Corporates,2022,33.8,False
+T4 |  | Households #3,T4,,Households,2022,106.5,False
+T4 | Memorandum items: | Velocity (GDP/Broad Money),T4,Memorandum items:,Velocity (GDP/Broad Money),2022,1.5,False
+T4 | Memorandum items: | Euro per U.S. dollar (end of period),T4,Memorandum items:,Euro per U.S. dollar (end of period),2022,0.9,False
+T5 |  | Return on assets,T5,,Return on assets,2022,0.6,False
+T5 |  | Return on equity,T5,,Return on equity,2022,7.0,False
+T5 |  | Net interest margin,T5,,Net interest margin,2022,1.8,False
+T5 |  | Cost-to-income ratio,T5,,Cost-to-income ratio,2022,66.9,False
+T5 |  | NPL ratio,T5,,NPL ratio,2022,2.3,False
+T5 |  | Coverage ratio,T5,,Coverage ratio,2022,32.8,False
+T5 |  | CT1 ratio,T5,,CT1 ratio,2022,17.0,False
+T5 |  | Net loan to deposit ratio,T5,,Net loan to deposit ratio,2022,71.8,False
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2023,-2.5,False
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2023,5.7,False
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2023,8.0,False
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2023,5.0,False
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2023,5.0,False
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2023,13.4,False
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2023,-3.9,False
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2023,2.2,False
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2023,3.2,False
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2023,4.7,False
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2023,1.8,False
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2023,2.8,False
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2023,0.1,False
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2023,-7.7,False
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2023,0.5,False
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2023,5.2,False
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2023,5.0,False
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2023,3.4,False
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2023,3.4,False
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2023,4.3,False
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2023,23.6,False
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2023,22.2,False
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2023,1.4,False
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2023,2.5,False
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2023,2.1,False
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2023,1.1,False
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2023,-1.1,False
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2023,41.8,False
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2023,75.2,False
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2023,29.9,False
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2023,7.0,False
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2023,175.7,False
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2023,33.7,False
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2023,31.3,False
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2023,2.4,False
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2023,26.7,False
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2023,524.7,False
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2023,291.4,False
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2023,6.2,False
+T2 |  | Revenue,T2,,Revenue,2023,23.6,False
+T2 |  | Taxes,T2,,Taxes,2023,17.8,False
+T2 |  | Personal income tax,T2,,Personal income tax,2023,6.6,False
+T2 |  | Corporate income tax,T2,,Corporate income tax,2023,4.6,False
+T2 |  | VAT,T2,,VAT,2023,3.9,False
+T2 |  | Excises,T2,,Excises,2023,1.1,False
+T2 |  | Other taxes,T2,,Other taxes,2023,1.7,False
+T2 |  | Social contributions,T2,,Social contributions,2023,4.1,False
+T2 |  | Other revenue,T2,,Other revenue,2023,1.7,False
+T2 |  | Expenditure,T2,,Expenditure,2023,22.2,False
+T2 |  | Expense,T2,,Expense,2023,19.9,False
+T2 |  | Compensation of employees,T2,,Compensation of employees,2023,6.0,False
+T2 |  | Use of goods and services,T2,,Use of goods and services,2023,3.7,False
+T2 |  | Interest,T2,,Interest,2023,0.6,False
+T2 |  | Subsidies,T2,,Subsidies,2023,0.5,False
+T2 |  | Social benefits,T2,,Social benefits,2023,7.6,False
+T2 |  | Other expense,T2,,Other expense,2023,1.5,False
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2023,2.3,False
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2023,1.4,False
+T2 |  | Net financial transactions,T2,,Net financial transactions,2023,1.7,False
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2023,0.3,False
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2023,-1.4,False
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2023,1.1,False
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2023,-1.1,False
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2023,41.8,False
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2023,75.2,False
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2023,176.8,False
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2023,1.4,False
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2023,2.5,False
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2023,36.8,False
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2023,66.2,False
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2023,2.7,False
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2023,6.0,False
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2023,524.7,False
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2023,36.9,False
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2023,7.0,False
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2023,175.3,False
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2023,33.4,False
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2023,156.7,False
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2023,306.2,False
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2023,149.6,False
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2023,18.6,False
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2023,-133.7,False
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2023,-25.5,False
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2023,-4.7,False
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2023,-8.7,False
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2023,29.6,False
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2023,5.6,False
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2023,13.7,False
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2023,98.6,False
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2023,-82.2,False
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2023,-0.4,False
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2023,1.4,False
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2023,-103.3,False
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2023,-5.9,False
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2023,-161.7,False
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2023,62.1,False
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2023,2.2,False
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2023,541.4,False
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2023,175.7,False
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2023,365.6,False
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2023,204.8,False
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2023,336.6,False
+T4 |  | Net foreign assets,T4,,Net foreign assets,2023,301.8,False
+T4 |  | Claims on nonresidents,T4,,Claims on nonresidents,2023,1250.8,False
+T4 |  | Central Bank,T4,,Central Bank,2023,124.4,False
+T4 |  | Other Depository Corporations,T4,,Other Depository Corporations,2023,1126.4,False
+T4 |  | Liabilities to Nonresidents,T4,,Liabilities to Nonresidents,2023,-949.0,False
+T4 |  | Central Bank #2,T4,,Central Bank,2023,-6.2,False
+T4 |  | Other Depository Corporations #2,T4,,Other Depository Corporations,2023,-942.8,False
+T4 |  | Net domestic assets,T4,,Net domestic assets,2023,173.2,False
+T4 |  | Net Claims on Central Government,T4,,Net Claims on Central Government,2023,43.9,False
+T4 |  | Claims on State and Local Government,T4,,Claims on State and Local Government,2023,0.1,False
+T4 |  | Claims on Public Nonfinancial Corporations,T4,,Claims on Public Nonfinancial Corporations,2023,0.0,False
+T4 |  | Claims on NBFIs,T4,,Claims on NBFIs,2023,124.7,False
+T4 |  | Claims on private sector,T4,,Claims on private sector,2023,132.3,False
+T4 |  | Corporates,T4,,Corporates,2023,30.9,False
+T4 |  | Households,T4,,Households,2023,101.5,False
+T4 |  | Capital and Reserves (-),T4,,Capital and Reserves (-),2023,95.9,False
+"T4 |  | Other items, net (-, including discrepancy)",T4,,"Other items, net (-, including discrepancy)",2023,32.0,False
+T4 |  | Broad Money,T4,,Broad Money,2023,349.6,False
+T4 |  | Currency in Circulation,T4,,Currency in Circulation,2023,24.0,False
+T4 |  | Transferable Deposits,T4,,Transferable Deposits,2023,245.3,False
+T4 |  | Other Deposits,T4,,Other Deposits,2023,77.7,False
+T4 |  | Securities,T4,,Securities,2023,2.7,False
+T4 |  | Other Liabilities,T4,,Other Liabilities,2023,125.4,False
+T4 |  | Net foreign assets #2,T4,,Net foreign assets,2023,8.1,False
+T4 |  | Net domestic assets #2,T4,,Net domestic assets,2023,-16.3,False
+T4 |  | Claims on private sector #2,T4,,Claims on private sector,2023,-0.1,False
+T4 |  | Corporates #2,T4,,Corporates,2023,-3.2,False
+T4 |  | Households #2,T4,,Households,2023,0.9,False
+T4 |  | Broad Money #2,T4,,Broad Money,2023,2.0,False
+T4 |  | Net foreign assets #3,T4,,Net foreign assets,2023,329.1,False
+T4 |  | Net domestic assets #3,T4,,Net domestic assets,2023,188.8,False
+T4 |  | Claims on private sector #3,T4,,Claims on private sector,2023,144.3,False
+T4 |  | Corporates #3,T4,,Corporates,2023,33.6,False
+T4 |  | Households #3,T4,,Households,2023,110.7,False
+T4 | Memorandum items: | Velocity (GDP/Broad Money),T4,Memorandum items:,Velocity (GDP/Broad Money),2023,1.5,False
+T4 | Memorandum items: | Euro per U.S. dollar (end of period),T4,Memorandum items:,Euro per U.S. dollar (end of period),2023,0.9,False
+T5 |  | Return on assets,T5,,Return on assets,2023,1.3,False
+T5 |  | Return on equity,T5,,Return on equity,2023,13.1,False
+T5 |  | Net interest margin,T5,,Net interest margin,2023,3.0,False
+T5 |  | Cost-to-income ratio,T5,,Cost-to-income ratio,2023,47.8,False
+T5 |  | NPL ratio,T5,,NPL ratio,2023,2.1,False
+T5 |  | Coverage ratio,T5,,Coverage ratio,2023,28.6,False
+T5 |  | CT1 ratio,T5,,CT1 ratio,2023,15.5,False
+T5 |  | Net loan to deposit ratio,T5,,Net loan to deposit ratio,2023,76.4,False
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2024,2.6,False
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2024,4.8,False
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2024,-9.8,False
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2024,5.3,False
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2024,2.9,False
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2024,-28.5,False
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2024,8.6,False
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2024,2.7,False
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2024,1.2,False
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2024,-6.4,False
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2024,1.4,False
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2024,-7.1,False
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2024,-0.8,False
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2024,8.9,False
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2024,0.1,False
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2024,1.3,False
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2024,2.4,False
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2024,4.5,False
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2024,2.7,False
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2024,4.3,False
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2024,26.5,False
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2024,22.3,False
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2024,4.1,False
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2024,7.3,False
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2024,4.7,False
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2024,4.2,False
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2024,-0.7,False
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2024,38.3,False
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2024,67.1,False
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2024,31.2,False
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2024,16.2,False
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2024,154.2,False
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2024,34.4,False
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2024,29.3,False
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2024,5.1,False
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2024,18.2,False
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2024,562.8,False
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2024,321.1,False
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2024,1.8,False
+T2 |  | Revenue,T2,,Revenue,2024,26.5,False
+T2 |  | Taxes,T2,,Taxes,2024,18.3,False
+T2 |  | Personal income tax,T2,,Personal income tax,2024,6.5,False
+T2 |  | Corporate income tax,T2,,Corporate income tax,2024,5.0,False
+T2 |  | VAT,T2,,VAT,2024,3.9,False
+T2 |  | Excises,T2,,Excises,2024,1.0,False
+T2 |  | Other taxes,T2,,Other taxes,2024,1.7,False
+T2 |  | Social contributions,T2,,Social contributions,2024,4.1,False
+T2 |  | Other revenue,T2,,Other revenue,2024,4.1,False
+T2 |  | Expenditure,T2,,Expenditure,2024,22.3,False
+T2 |  | Expense,T2,,Expense,2024,19.8,False
+T2 |  | Compensation of employees,T2,,Compensation of employees,2024,6.0,False
+T2 |  | Use of goods and services,T2,,Use of goods and services,2024,3.6,False
+T2 |  | Interest,T2,,Interest,2024,0.6,False
+T2 |  | Subsidies,T2,,Subsidies,2024,0.6,False
+T2 |  | Social benefits,T2,,Social benefits,2024,7.6,False
+T2 |  | Other expense,T2,,Other expense,2024,1.4,False
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2024,2.5,False
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2024,4.1,False
+T2 |  | Net financial transactions,T2,,Net financial transactions,2024,4.0,False
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2024,0.8,False
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2024,-3.2,False
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2024,4.2,False
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2024,-0.7,False
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2024,38.3,False
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2024,67.1,False
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2024,144.7,False
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2024,4.1,False
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2024,7.3,False
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2024,31.3,False
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2024,54.9,False
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2024,2.2,False
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2024,5.2,False
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2024,562.8,False
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2024,91.0,False
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2024,16.2,False
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2024,235.2,False
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2024,41.8,False
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2024,175.6,False
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2024,327.4,False
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2024,151.8,False
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2024,59.7,False
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2024,-139.7,False
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2024,-24.8,False
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2024,-4.6,False
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2024,-2.6,False
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2024,93.3,False
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2024,16.6,False
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2024,62.1,False
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2024,63.0,False
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2024,-31.7,False
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2024,-0.1,False
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2024,4.9,False
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2024,-81.4,False
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2024,18.2,False
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2024,-166.6,False
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2024,64.8,False
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2024,2.2,False
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2024,544.0,False
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2024,154.2,False
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2024,389.9,False
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2024,217.6,False
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2024,326.4,False
+T4 |  | Net foreign assets,T4,,Net foreign assets,2024,339.1,False
+T4 |  | Claims on nonresidents,T4,,Claims on nonresidents,2024,1457.3,False
+T4 |  | Central Bank,T4,,Central Bank,2024,119.6,False
+T4 |  | Other Depository Corporations,T4,,Other Depository Corporations,2024,1337.7,False
+T4 |  | Liabilities to Nonresidents,T4,,Liabilities to Nonresidents,2024,-1118.2,False
+T4 |  | Central Bank #2,T4,,Central Bank,2024,-6.0,False
+T4 |  | Other Depository Corporations #2,T4,,Other Depository Corporations,2024,-1112.2,False
+T4 |  | Net domestic assets,T4,,Net domestic assets,2024,175.6,False
+T4 |  | Net Claims on Central Government,T4,,Net Claims on Central Government,2024,44.6,False
+T4 |  | Claims on State and Local Government,T4,,Claims on State and Local Government,2024,0.1,False
+T4 |  | Claims on Public Nonfinancial Corporations,T4,,Claims on Public Nonfinancial Corporations,2024,0.0,False
+T4 |  | Claims on NBFIs,T4,,Claims on NBFIs,2024,130.8,False
+T4 |  | Claims on private sector,T4,,Claims on private sector,2024,133.8,False
+T4 |  | Corporates,T4,,Corporates,2024,30.0,False
+T4 |  | Households,T4,,Households,2024,103.8,False
+T4 |  | Capital and Reserves (-),T4,,Capital and Reserves (-),2024,99.9,False
+"T4 |  | Other items, net (-, including discrepancy)",T4,,"Other items, net (-, including discrepancy)",2024,33.8,False
+T4 |  | Broad Money,T4,,Broad Money,2024,390.6,False
+T4 |  | Currency in Circulation,T4,,Currency in Circulation,2024,31.5,False
+T4 |  | Transferable Deposits,T4,,Transferable Deposits,2024,254.8,False
+T4 |  | Other Deposits,T4,,Other Deposits,2024,102.5,False
+T4 |  | Securities,T4,,Securities,2024,1.7,False
+T4 |  | Other Liabilities,T4,,Other Liabilities,2024,124.2,False
+T4 |  | Net foreign assets #2,T4,,Net foreign assets,2024,12.4,False
+T4 |  | Net domestic assets #2,T4,,Net domestic assets,2024,1.4,False
+T4 |  | Claims on private sector #2,T4,,Claims on private sector,2024,1.1,False
+T4 |  | Corporates #2,T4,,Corporates,2024,-2.7,False
+T4 |  | Households #2,T4,,Households,2024,2.3,False
+T4 |  | Broad Money #2,T4,,Broad Money,2024,11.7,False
+T4 |  | Net foreign assets #3,T4,,Net foreign assets,2024,355.4,False
+T4 |  | Net domestic assets #3,T4,,Net domestic assets,2024,184.0,False
+T4 |  | Claims on private sector #3,T4,,Claims on private sector,2024,140.2,False
+T4 |  | Corporates #3,T4,,Corporates,2024,31.5,False
+T4 |  | Households #3,T4,,Households,2024,108.8,False
+T4 | Memorandum items: | Velocity (GDP/Broad Money),T4,Memorandum items:,Velocity (GDP/Broad Money),2024,1.4,False
+T4 | Memorandum items: | Euro per U.S. dollar (end of period),T4,Memorandum items:,Euro per U.S. dollar (end of period),2024,1.0,False
+T5 |  | Return on assets,T5,,Return on assets,2024,1.3,False
+T5 |  | Return on equity,T5,,Return on equity,2024,13.3,False
+T5 |  | Net interest margin,T5,,Net interest margin,2024,2.9,False
+T5 |  | Cost-to-income ratio,T5,,Cost-to-income ratio,2024,48.9,False
+T5 |  | NPL ratio,T5,,NPL ratio,2024,1.7,False
+T5 |  | Coverage ratio,T5,,Coverage ratio,2024,30.2,False
+T5 |  | CT1 ratio,T5,,CT1 ratio,2024,14.8,False
+T5 |  | Net loan to deposit ratio,T5,,Net loan to deposit ratio,2024,76.7,False
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2025,12.3,False
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2025,4.0,False
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2025,14.8,False
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2025,4.1,False
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2025,2.9,False
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2025,42.6,False
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2025,9.7,False
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2025,9.5,False
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2025,1.9,False
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2025,8.6,False
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2025,1.3,False
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2025,7.4,False
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2025,-0.1,False
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2025,3.9,False
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2025,-0.1,False
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2025,2.1,False
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2025,2.2,False
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2025,1.0,False
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2025,2.2,False
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2025,4.7,False
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2025,22.7,False
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2025,21.0,False
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2025,1.8,False
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2025,3.3,False
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2025,2.2,False
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2025,1.7,False
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2025,-1.2,False
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2025,32.9,False
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2025,62.2,False
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2025,36.1,False
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2025,8.2,False
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2025,130.8,False
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2025,31.1,False
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2025,28.5,False
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2025,2.6,False
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2025,22.9,False
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2025,638.7,False
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2025,337.3,False
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2025,4.9,False
+T2 |  | Revenue,T2,,Revenue,2025,22.7,False
+T2 |  | Taxes,T2,,Taxes,2025,17.5,False
+T2 |  | Personal income tax,T2,,Personal income tax,2025,6.0,False
+T2 |  | Corporate income tax,T2,,Corporate income tax,2025,5.3,False
+T2 |  | VAT,T2,,VAT,2025,3.6,False
+T2 |  | Excises,T2,,Excises,2025,0.9,False
+T2 |  | Other taxes,T2,,Other taxes,2025,1.7,False
+T2 |  | Social contributions,T2,,Social contributions,2025,3.9,False
+T2 |  | Other revenue,T2,,Other revenue,2025,1.4,False
+T2 |  | Expenditure,T2,,Expenditure,2025,21.0,False
+T2 |  | Expense,T2,,Expense,2025,18.2,False
+T2 |  | Compensation of employees,T2,,Compensation of employees,2025,5.7,False
+T2 |  | Use of goods and services,T2,,Use of goods and services,2025,3.3,False
+T2 |  | Interest,T2,,Interest,2025,0.5,False
+T2 |  | Subsidies,T2,,Subsidies,2025,0.6,False
+T2 |  | Social benefits,T2,,Social benefits,2025,6.8,False
+T2 |  | Other expense,T2,,Other expense,2025,1.4,False
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2025,2.7,False
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2025,1.8,False
+T2 |  | Net financial transactions,T2,,Net financial transactions,2025,1.8,False
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2025,0.0,False
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2025,-1.8,False
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2025,1.7,False
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2025,-1.2,False
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2025,32.9,False
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2025,62.2,False
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2025,144.7,False
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2025,1.8,False
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2025,3.3,False
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2025,25.1,False
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2025,47.6,False
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2025,2.0,False
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2025,4.1,False
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2025,638.7,False
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2025,52.1,False
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2025,8.2,False
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2025,256.6,False
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2025,40.2,False
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2025,230.3,False
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2025,394.4,False
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2025,164.1,False
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2025,26.3,False
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2025,-199.9,False
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2025,-31.3,False
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2025,-4.6,False
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2025,-7.0,False
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2025,50.6,False
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2025,7.9,False
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2025,34.5,False
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2025,72.1,False
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2025,-56.0,False
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2025,0.0,False
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2025,5.5,False
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2025,-47.5,False
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2025,23.9,False
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2025,-132.3,False
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2025,59.1,False
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2025,1.8,False
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2025,507.4,False
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2025,130.8,False
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2025,376.6,False
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2025,219.5,False
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2025,287.9,False
+T4 |  | Net foreign assets,T4,,Net foreign assets,2025,324.8,False
+T4 |  | Claims on nonresidents,T4,,Claims on nonresidents,2025,1537.1,False
+T4 |  | Central Bank,T4,,Central Bank,2025,109.5,False
+T4 |  | Other Depository Corporations,T4,,Other Depository Corporations,2025,1427.6,False
+T4 |  | Liabilities to Nonresidents,T4,,Liabilities to Nonresidents,2025,-1212.3,False
+T4 |  | Central Bank #2,T4,,Central Bank,2025,-4.8,False
+T4 |  | Other Depository Corporations #2,T4,,Other Depository Corporations,2025,-1207.5,False
+T4 |  | Net domestic assets,T4,,Net domestic assets,2025,189.2,False
+T4 |  | Net Claims on Central Government,T4,,Net Claims on Central Government,2025,49.8,False
+T4 |  | Claims on State and Local Government,T4,,Claims on State and Local Government,2025,0.2,False
+T4 |  | Claims on Public Nonfinancial Corporations,T4,,Claims on Public Nonfinancial Corporations,2025,0.0,False
+T4 |  | Claims on NBFIs,T4,,Claims on NBFIs,2025,121.7,False
+T4 |  | Claims on private sector,T4,,Claims on private sector,2025,143.7,False
+T4 |  | Corporates,T4,,Corporates,2025,30.6,False
+T4 |  | Households,T4,,Households,2025,113.1,False
+T4 |  | Capital and Reserves (-),T4,,Capital and Reserves (-),2025,95.8,False
+"T4 |  | Other items, net (-, including discrepancy)",T4,,"Other items, net (-, including discrepancy)",2025,30.3,False
+T4 |  | Broad Money,T4,,Broad Money,2025,403.9,False
+T4 |  | Currency in Circulation,T4,,Currency in Circulation,2025,32.2,False
+T4 |  | Transferable Deposits,T4,,Transferable Deposits,2025,268.0,False
+T4 |  | Other Deposits,T4,,Other Deposits,2025,102.4,False
+T4 |  | Securities,T4,,Securities,2025,1.3,False
+T4 |  | Other Liabilities,T4,,Other Liabilities,2025,110.2,False
+T4 |  | Net foreign assets #2,T4,,Net foreign assets,2025,-4.2,False
+T4 |  | Net domestic assets #2,T4,,Net domestic assets,2025,7.8,False
+T4 |  | Claims on private sector #2,T4,,Claims on private sector,2025,7.3,False
+T4 |  | Corporates #2,T4,,Corporates,2025,1.8,False
+T4 |  | Households #2,T4,,Households,2025,8.9,False
+T4 |  | Broad Money #2,T4,,Broad Money,2025,3.4,False
+T4 |  | Net foreign assets #3,T4,,Net foreign assets,2025,380.3,False
+T4 |  | Net domestic assets #3,T4,,Net domestic assets,2025,221.6,False
+T4 |  | Claims on private sector #3,T4,,Claims on private sector,2025,168.2,False
+T4 |  | Corporates #3,T4,,Corporates,2025,35.8,False
+T4 |  | Households #3,T4,,Households,2025,132.4,False
+T4 | Memorandum items: | Velocity (GDP/Broad Money),T4,Memorandum items:,Velocity (GDP/Broad Money),2025,1.6,False
+T4 | Memorandum items: | Euro per U.S. dollar (end of period),T4,Memorandum items:,Euro per U.S. dollar (end of period),2025,0.9,False
+T5 |  | Return on assets,T5,,Return on assets,2025,1.1,False
+T5 |  | Return on equity,T5,,Return on equity,2025,11.3,False
+T5 |  | Net interest margin,T5,,Net interest margin,2025,2.6,False
+T5 |  | Cost-to-income ratio,T5,,Cost-to-income ratio,2025,52.7,False
+T5 |  | NPL ratio,T5,,NPL ratio,2025,1.5,False
+T5 |  | Coverage ratio,T5,,Coverage ratio,2025,33.3,False
+T5 |  | CT1 ratio,T5,,CT1 ratio,2025,15.7,False
+T5 |  | Net loan to deposit ratio,T5,,Net loan to deposit ratio,2025,72.9,False
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2026,-0.8,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2026,2.0,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2026,2.3,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2026,2.5,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2026,2.0,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2026,2.0,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2026,0.7,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2026,3.1,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2026,0.5,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2026,1.3,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2026,0.8,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2026,0.4,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2026,0.1,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2026,-1.8,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2026,-0.4,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2026,3.5,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2026,2.5,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2026,1.9,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2026,1.2,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2026,5.0,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2026,23.5,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2026,22.5,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2026,0.9,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2026,1.7,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2026,1.5,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2026,1.3,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2026,-1.8,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2026,32.2,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2026,59.2,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2026,31.2,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2026,7.8,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2026,125.5,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2026,31.4,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2026,29.6,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2026,1.8,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2026,23.6,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2026,645.2,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2026,350.5,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2026,2.5,True
+T2 |  | Revenue,T2,,Revenue,2026,23.5,True
+T2 |  | Taxes,T2,,Taxes,2026,17.9,True
+T2 |  | Personal income tax,T2,,Personal income tax,2026,6.2,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2026,5.4,True
+T2 |  | VAT,T2,,VAT,2026,3.6,True
+T2 |  | Excises,T2,,Excises,2026,1.0,True
+T2 |  | Other taxes,T2,,Other taxes,2026,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2026,4.0,True
+T2 |  | Other revenue,T2,,Other revenue,2026,1.6,True
+T2 |  | Expenditure,T2,,Expenditure,2026,22.5,True
+T2 |  | Expense,T2,,Expense,2026,19.6,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2026,6.1,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2026,3.7,True
+T2 |  | Interest,T2,,Interest,2026,0.5,True
+T2 |  | Subsidies,T2,,Subsidies,2026,0.6,True
+T2 |  | Social benefits,T2,,Social benefits,2026,7.3,True
+T2 |  | Other expense,T2,,Other expense,2026,1.5,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2026,3.0,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2026,0.9,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2026,0.9,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2026,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2026,-0.9,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2026,1.3,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2026,-1.8,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2026,32.2,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2026,59.2,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2026,136.9,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2026,0.9,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2026,1.7,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2026,21.7,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2026,39.9,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2026,2.2,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2026,3.4,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2026,645.2,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2026,50.2,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2026,7.8,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2026,246.8,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2026,38.3,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2026,201.6,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2026,373.7,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2026,172.1,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2026,45.2,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2026,-192.0,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2026,-29.8,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2026,-4.6,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2026,-29.8,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2026,20.5,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2026,3.2,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2026,33.6,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2026,73.5,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2026,-86.7,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2026,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2026,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2026,-30.3,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2026,28.9,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2026,-130.5,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2026,69.5,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2026,1.8,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2026,498.2,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2026,125.5,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2026,372.8,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2026,215.6,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2026,282.7,True
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2027,3.7,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2027,2.7,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2027,2.6,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2027,2.5,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2027,2.3,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2027,3.5,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2027,4.5,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2027,4.1,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2027,0.3,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2027,1.6,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2027,0.9,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2027,0.8,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2027,-0.1,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2027,2.3,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2027,-0.1,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2027,2.6,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2027,2.4,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2027,2.4,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2027,1.1,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2027,5.0,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2027,23.4,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2027,22.5,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2027,0.9,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2027,1.6,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2027,1.4,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2027,1.3,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2027,-1.9,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2027,30.0,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2027,55.8,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2027,30.6,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2027,8.0,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2027,114.2,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2027,31.1,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2027,29.4,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2027,1.6,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2027,23.1,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2027,685.1,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2027,368.3,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2027,2.6,True
+T2 |  | Revenue,T2,,Revenue,2027,23.4,True
+T2 |  | Taxes,T2,,Taxes,2027,17.8,True
+T2 |  | Personal income tax,T2,,Personal income tax,2027,6.3,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2027,5.2,True
+T2 |  | VAT,T2,,VAT,2027,3.5,True
+T2 |  | Excises,T2,,Excises,2027,1.0,True
+T2 |  | Other taxes,T2,,Other taxes,2027,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2027,4.0,True
+T2 |  | Other revenue,T2,,Other revenue,2027,1.6,True
+T2 |  | Expenditure,T2,,Expenditure,2027,22.5,True
+T2 |  | Expense,T2,,Expense,2027,19.3,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2027,6.0,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2027,3.7,True
+T2 |  | Interest,T2,,Interest,2027,0.6,True
+T2 |  | Subsidies,T2,,Subsidies,2027,0.5,True
+T2 |  | Social benefits,T2,,Social benefits,2027,7.1,True
+T2 |  | Other expense,T2,,Other expense,2027,1.4,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2027,3.2,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2027,0.9,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2027,0.9,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2027,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2027,-0.9,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2027,1.3,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2027,-1.9,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2027,30.0,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2027,55.8,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2027,128.4,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2027,0.9,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2027,1.6,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2027,21.3,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2027,39.5,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2027,2.4,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2027,2.6,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2027,685.1,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2027,54.7,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2027,8.0,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2027,268.2,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2027,39.2,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2027,209.3,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2027,386.6,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2027,177.2,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2027,58.9,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2027,-208.6,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2027,-30.5,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2027,-4.9,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2027,-32.3,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2027,22.4,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2027,3.3,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2027,31.6,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2027,75.0,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2027,-84.2,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2027,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2027,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2027,-13.2,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2027,31.8,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2027,-121.9,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2027,75.3,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2027,1.7,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2027,465.2,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2027,114.2,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2027,351.0,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2027,201.3,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2027,263.9,True
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2028,2.9,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2028,2.6,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2028,2.7,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2028,2.5,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2028,2.4,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2028,3.2,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2028,3.0,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2028,2.9,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2028,0.2,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2028,1.6,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2028,0.9,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2028,0.7,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2028,0.0,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2028,1.3,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2028,0.0,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2028,2.0,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2028,2.2,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2028,1.5,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2028,1.0,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2028,5.0,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2028,23.6,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2028,23.0,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2028,0.6,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2028,1.2,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2028,1.3,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2028,1.2,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2028,-2.0,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2028,28.6,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2028,53.4,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2028,30.0,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2028,8.0,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2028,105.6,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2028,31.1,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2028,29.7,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2028,1.4,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2028,23.1,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2028,715.6,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2028,383.4,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2028,2.6,True
+T2 |  | Revenue,T2,,Revenue,2028,23.6,True
+T2 |  | Taxes,T2,,Taxes,2028,18.0,True
+T2 |  | Personal income tax,T2,,Personal income tax,2028,6.6,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2028,5.2,True
+T2 |  | VAT,T2,,VAT,2028,3.5,True
+T2 |  | Excises,T2,,Excises,2028,1.0,True
+T2 |  | Other taxes,T2,,Other taxes,2028,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2028,4.1,True
+T2 |  | Other revenue,T2,,Other revenue,2028,1.6,True
+T2 |  | Expenditure,T2,,Expenditure,2028,23.0,True
+T2 |  | Expense,T2,,Expense,2028,19.4,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2028,6.0,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2028,3.7,True
+T2 |  | Interest,T2,,Interest,2028,0.6,True
+T2 |  | Subsidies,T2,,Subsidies,2028,0.5,True
+T2 |  | Social benefits,T2,,Social benefits,2028,7.1,True
+T2 |  | Other expense,T2,,Other expense,2028,1.4,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2028,3.6,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2028,0.6,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2028,0.6,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2028,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2028,-0.6,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2028,1.2,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2028,-2.0,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2028,28.6,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2028,53.4,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2028,121.1,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2028,0.6,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2028,1.2,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2028,21.4,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2028,39.9,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2028,2.7,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2028,2.0,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2028,715.6,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2028,57.0,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2028,8.0,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2028,280.0,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2028,39.1,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2028,215.0,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2028,398.4,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2028,183.4,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2028,65.0,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2028,-217.9,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2028,-30.5,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2028,-5.1,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2028,-33.7,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2028,23.3,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2028,3.3,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2028,29.6,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2028,76.5,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2028,-82.8,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2028,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2028,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2028,1.8,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2028,34.6,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2028,-115.3,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2028,80.8,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2028,1.6,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2028,441.7,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2028,105.6,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2028,336.1,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2028,191.1,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2028,250.6,True
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2029,2.4,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2029,2.4,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2029,2.7,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2029,2.5,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2029,2.3,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2029,3.3,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2029,2.5,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2029,2.7,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2029,0.1,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2029,1.6,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2029,0.9,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2029,0.7,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2029,0.0,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2029,0.8,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2029,0.0,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2029,2.1,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2029,2.1,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2029,1.7,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2029,1.0,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2029,5.1,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2029,23.6,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2029,23.2,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2029,0.4,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2029,0.8,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2029,1.1,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2029,1.1,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2029,-2.0,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2029,27.6,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2029,51.5,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2029,29.4,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2029,7.6,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2029,98.3,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2029,30.9,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2029,29.8,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2029,1.1,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2029,23.4,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2029,745.1,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2029,399.2,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2029,2.5,True
+T2 |  | Revenue,T2,,Revenue,2029,23.6,True
+T2 |  | Taxes,T2,,Taxes,2029,17.8,True
+T2 |  | Personal income tax,T2,,Personal income tax,2029,6.6,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2029,4.9,True
+T2 |  | VAT,T2,,VAT,2029,3.5,True
+T2 |  | Excises,T2,,Excises,2029,1.0,True
+T2 |  | Other taxes,T2,,Other taxes,2029,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2029,4.3,True
+T2 |  | Other revenue,T2,,Other revenue,2029,1.5,True
+T2 |  | Expenditure,T2,,Expenditure,2029,23.2,True
+T2 |  | Expense,T2,,Expense,2029,19.6,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2029,6.1,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2029,3.8,True
+T2 |  | Interest,T2,,Interest,2029,0.7,True
+T2 |  | Subsidies,T2,,Subsidies,2029,0.5,True
+T2 |  | Social benefits,T2,,Social benefits,2029,7.1,True
+T2 |  | Other expense,T2,,Other expense,2029,1.4,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2029,3.6,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2029,0.4,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2029,0.4,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2029,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2029,-0.4,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2029,1.1,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2029,-2.0,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2029,27.6,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2029,51.5,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2029,116.9,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2029,0.4,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2029,0.8,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2029,21.7,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2029,40.5,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2029,3.0,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2029,1.4,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2029,745.1,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2029,56.3,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2029,7.6,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2029,288.5,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2029,38.7,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2029,219.3,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2029,410.6,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2029,191.4,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2029,69.3,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2029,-226.9,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2029,-30.5,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2029,-5.4,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2029,-35.1,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2029,21.2,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2029,2.8,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2029,27.7,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2029,78.0,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2029,-84.6,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2029,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2029,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2029,15.1,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2029,36.9,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2029,-108.9,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2029,85.5,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2029,1.6,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2029,421.1,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2029,98.3,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2029,322.8,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2029,182.2,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2029,238.9,True
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2030,2.3,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2030,2.3,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2030,2.5,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2030,2.5,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2030,2.2,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2030,3.0,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2030,2.5,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2030,2.7,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2030,0.0,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2030,1.5,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2030,0.9,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2030,0.7,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2030,0.0,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2030,0.8,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2030,0.0,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2030,2.0,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2030,2.0,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2030,1.7,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2030,0.9,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2030,5.1,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2030,24.0,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2030,23.4,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2030,0.6,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2030,1.1,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2030,1.4,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2030,1.4,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2030,-1.8,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2030,26.6,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2030,49.6,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2030,28.9,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2030,7.2,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2030,91.8,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2030,30.8,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2030,29.5,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2030,1.3,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2030,23.6,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2030,775.4,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2030,415.5,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2030,2.4,True
+T2 |  | Revenue,T2,,Revenue,2030,24.0,True
+T2 |  | Taxes,T2,,Taxes,2030,18.1,True
+T2 |  | Personal income tax,T2,,Personal income tax,2030,6.8,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2030,5.0,True
+T2 |  | VAT,T2,,VAT,2030,3.6,True
+T2 |  | Excises,T2,,Excises,2030,1.1,True
+T2 |  | Other taxes,T2,,Other taxes,2030,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2030,4.3,True
+T2 |  | Other revenue,T2,,Other revenue,2030,1.5,True
+T2 |  | Expenditure,T2,,Expenditure,2030,23.4,True
+T2 |  | Expense,T2,,Expense,2030,19.7,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2030,6.2,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2030,3.9,True
+T2 |  | Interest,T2,,Interest,2030,0.8,True
+T2 |  | Subsidies,T2,,Subsidies,2030,0.5,True
+T2 |  | Social benefits,T2,,Social benefits,2030,7.1,True
+T2 |  | Other expense,T2,,Other expense,2030,1.3,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2030,3.6,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2030,0.6,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2030,0.6,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2030,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2030,-0.6,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2030,1.4,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2030,-1.8,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2030,26.6,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2030,49.6,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2030,110.9,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2030,0.6,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2030,1.1,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2030,21.9,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2030,40.8,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2030,3.3,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2030,0.9,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2030,775.4,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2030,56.1,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2030,7.2,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2030,297.8,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2030,38.4,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2030,224.3,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2030,424.4,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2030,200.1,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2030,73.5,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2030,-236.1,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2030,-30.5,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2030,-5.6,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2030,-36.5,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2030,19.6,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2030,2.5,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2030,25.9,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2030,79.6,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2030,-85.9,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2030,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2030,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2030,27.1,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2030,38.8,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2030,-102.5,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2030,89.3,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2030,1.5,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2030,402.0,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2030,91.8,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2030,310.2,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2030,173.9,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2030,228.1,True
+T1 | Output/Demand | Real GDP,T1,Output/Demand,Real GDP,2031,2.3,True
+T1 | Output/Demand | Real GNI* (growth rate),T1,Output/Demand,Real GNI* (growth rate),2031,2.3,True
+T1 | Output/Demand | Domestic demand,T1,Output/Demand,Domestic demand,2031,2.3,True
+T1 | Output/Demand | Public consumption,T1,Output/Demand,Public consumption,2031,2.3,True
+T1 | Output/Demand | Private consumption,T1,Output/Demand,Private consumption,2031,2.3,True
+T1 | Output/Demand | Gross fixed capital formation,T1,Output/Demand,Gross fixed capital formation,2031,2.5,True
+T1 | Output/Demand | Exports of goods and services,T1,Output/Demand,Exports of goods and services,2031,2.5,True
+T1 | Output/Demand | Imports of goods and services,T1,Output/Demand,Imports of goods and services,2031,2.6,True
+T1 | Output/Demand | Output gap,T1,Output/Demand,Output gap,2031,0.0,True
+T1 | Contribution to Growth | Domestic demand,T1,Contribution to Growth,Domestic demand,2031,1.4,True
+T1 | Contribution to Growth | Consumption,T1,Contribution to Growth,Consumption,2031,0.9,True
+T1 | Contribution to Growth | Gross fixed capital formation,T1,Contribution to Growth,Gross fixed capital formation,2031,0.6,True
+T1 | Contribution to Growth | Inventories,T1,Contribution to Growth,Inventories,2031,0.0,True
+T1 | Contribution to Growth | Net exports,T1,Contribution to Growth,Net exports,2031,0.9,True
+T1 | Contribution to Growth | Residual,T1,Contribution to Growth,Residual,2031,0.0,True
+T1 | Prices | Inflation (HICP),T1,Prices,Inflation (HICP),2031,2.0,True
+"T1 | Prices | Inflation (HICP, core)",T1,Prices,"Inflation (HICP, core)",2031,2.0,True
+T1 | Prices | GDP deflator,T1,Prices,GDP deflator,2031,1.8,True
+"T1 | Employment | Employment (% changes of level, ILO definition)",T1,Employment,"Employment (% changes of level, ILO definition)",2031,0.8,True
+T1 | Employment | Unemployment rate (percent),T1,Employment,Unemployment rate (percent),2031,5.1,True
+"T1 | Public Finance, General Government | Revenue",T1,"Public Finance, General Government",Revenue,2031,24.3,True
+"T1 | Public Finance, General Government | Expenditure",T1,"Public Finance, General Government",Expenditure,2031,23.8,True
+"T1 | Public Finance, General Government | Overall balance",T1,"Public Finance, General Government",Overall balance,2031,0.5,True
+"T1 | Public Finance, General Government | in percent of GNI*",T1,"Public Finance, General Government",in percent of GNI*,2031,0.9,True
+"T1 | Public Finance, General Government | Primary balance",T1,"Public Finance, General Government",Primary balance,2031,1.3,True
+"T1 | Public Finance, General Government | Cyclically adjusted primary balance",T1,"Public Finance, General Government",Cyclically adjusted primary balance,2031,1.3,True
+"T1 | Public Finance, General Government | Structural primary balance",T1,"Public Finance, General Government",Structural primary balance,2031,-1.9,True
+"T1 | Public Finance, General Government | General government gross debt",T1,"Public Finance, General Government",General government gross debt,2031,25.9,True
+"T1 | Public Finance, General Government | General government gross debt (percent of GNI*)",T1,"Public Finance, General Government",General government gross debt (percent of GNI*),2031,48.4,True
+T1 | Balance of Payments | Trade balance (goods),T1,Balance of Payments,Trade balance (goods),2031,28.5,True
+T1 | Balance of Payments | Current account balance,T1,Balance of Payments,Current account balance,2031,7.1,True
+T1 | Balance of Payments | Gross external debt (excl. IFSC),T1,Balance of Payments,Gross external debt (excl. IFSC),2031,85.9,True
+T1 | Saving and Investment Balance | Gross national savings,T1,Saving and Investment Balance,Gross national savings,2031,30.7,True
+T1 | Saving and Investment Balance | Private sector,T1,Saving and Investment Balance,Private sector,2031,29.6,True
+T1 | Saving and Investment Balance | Public sector,T1,Saving and Investment Balance,Public sector,2031,1.1,True
+T1 | Saving and Investment Balance | Gross capital formation,T1,Saving and Investment Balance,Gross capital formation,2031,23.6,True
+T1 | Memorandum Items: | Nominal GDP (€ billions),T1,Memorandum Items:,Nominal GDP (€ billions),2031,807.6,True
+T1 | Memorandum Items: | Nominal GNI* (€ billions),T1,Memorandum Items:,Nominal GNI* (€ billions),2031,432.9,True
+T1 | Memorandum Items: | Modified domestic demand (percentage change),T1,Memorandum Items:,Modified domestic demand (percentage change),2031,2.3,True
+T2 |  | Revenue,T2,,Revenue,2031,24.3,True
+T2 |  | Taxes,T2,,Taxes,2031,18.3,True
+T2 |  | Personal income tax,T2,,Personal income tax,2031,7.0,True
+T2 |  | Corporate income tax,T2,,Corporate income tax,2031,4.9,True
+T2 |  | VAT,T2,,VAT,2031,3.6,True
+T2 |  | Excises,T2,,Excises,2031,1.1,True
+T2 |  | Other taxes,T2,,Other taxes,2031,1.7,True
+T2 |  | Social contributions,T2,,Social contributions,2031,4.5,True
+T2 |  | Other revenue,T2,,Other revenue,2031,1.5,True
+T2 |  | Expenditure,T2,,Expenditure,2031,23.8,True
+T2 |  | Expense,T2,,Expense,2031,20.0,True
+T2 |  | Compensation of employees,T2,,Compensation of employees,2031,6.3,True
+T2 |  | Use of goods and services,T2,,Use of goods and services,2031,3.9,True
+T2 |  | Interest,T2,,Interest,2031,0.8,True
+T2 |  | Subsidies,T2,,Subsidies,2031,0.5,True
+T2 |  | Social benefits,T2,,Social benefits,2031,7.1,True
+T2 |  | Other expense,T2,,Other expense,2031,1.4,True
+T2 |  | Net acquisition of nonfinancial assets,T2,,Net acquisition of nonfinancial assets,2031,3.7,True
+T2 |  | Net Lending(+)/Borrowing(-) (Overall Balance),T2,,Net Lending(+)/Borrowing(-) (Overall Balance),2031,0.5,True
+T2 |  | Net financial transactions,T2,,Net financial transactions,2031,0.5,True
+T2 |  | Net acquisition of financial assets,T2,,Net acquisition of financial assets,2031,0.0,True
+T2 |  | Net incurrence of liabilities,T2,,Net incurrence of liabilities,2031,-0.5,True
+T2 | Memorandum Items: | Cyclically adjusted primary balance,T2,Memorandum Items:,Cyclically adjusted primary balance,2031,1.3,True
+T2 | Memorandum Items: | Structural primary balance,T2,Memorandum Items:,Structural primary balance,2031,-1.9,True
+T2 | Memorandum Items: | Gross public debt,T2,Memorandum Items:,Gross public debt,2031,25.9,True
+T2 | Memorandum Items: | in percent of GNI*,T2,Memorandum Items:,in percent of GNI*,2031,48.4,True
+T2 | Memorandum Items: | in percent of revenue,T2,Memorandum Items:,in percent of revenue,2031,106.9,True
+T2 | Memorandum Items: | Overall balance,T2,Memorandum Items:,Overall balance,2031,0.5,True
+T2 | Memorandum Items: | in percent of GNI* #2,T2,Memorandum Items:,in percent of GNI*,2031,0.9,True
+T2 | Memorandum Items: | Net public debt,T2,Memorandum Items:,Net public debt,2031,21.8,True
+T2 | Memorandum Items: | in percent of GNI* #3,T2,Memorandum Items:,in percent of GNI*,2031,40.7,True
+T2 | Memorandum Items: | Interest (in percent of revenue),T2,Memorandum Items:,Interest (in percent of revenue),2031,3.4,True
+T2 | Memorandum Items: | Currency and deposits,T2,Memorandum Items:,Currency and deposits,2031,1.0,True
+T2 | Memorandum Items: | GDP at current market prices (in billions of euros),T2,Memorandum Items:,GDP at current market prices (in billions of euros),2031,807.6,True
+T3 | Balance of Payments | Current Account Balance,T3,Balance of Payments,Current Account Balance,2031,57.3,True
+T3 | Balance of Payments | (Percent of GDP),T3,Balance of Payments,(Percent of GDP),2031,7.1,True
+T3 | Balance of Payments | Balance of goods and services,T3,Balance of Payments,Balance of goods and services,2031,309.0,True
+T3 | Balance of Payments | (Percent of GDP) #2,T3,Balance of Payments,(Percent of GDP),2031,38.3,True
+T3 | Balance of Payments | Trade balance,T3,Balance of Payments,Trade balance,2031,230.1,True
+T3 | Balance of Payments | Exports of goods,T3,Balance of Payments,Exports of goods,2031,439.3,True
+T3 | Balance of Payments | Imports of goods,T3,Balance of Payments,Imports of goods,2031,209.2,True
+T3 | Balance of Payments | Services balance,T3,Balance of Payments,Services balance,2031,78.9,True
+T3 | Balance of Payments | Primary income balance,T3,Balance of Payments,Primary income balance,2031,-245.9,True
+T3 | Balance of Payments | (Percent of GDP) #3,T3,Balance of Payments,(Percent of GDP),2031,-30.5,True
+T3 | Balance of Payments | Secondary income balance,T3,Balance of Payments,Secondary income balance,2031,-5.8,True
+T3 | Balance of Payments | Capital account balance,T3,Balance of Payments,Capital account balance,2031,-38.0,True
+T3 | Balance of Payments | Financial account balance,T3,Balance of Payments,Financial account balance,2031,19.3,True
+T3 | Balance of Payments | (Percent of GDP) #4,T3,Balance of Payments,(Percent of GDP),2031,2.4,True
+T3 | Balance of Payments | Direct investment,T3,Balance of Payments,Direct investment,2031,24.2,True
+T3 | Balance of Payments | Portfolio investment,T3,Balance of Payments,Portfolio investment,2031,81.2,True
+T3 | Balance of Payments | Other investment,T3,Balance of Payments,Other investment,2031,-86.1,True
+T3 | Balance of Payments | Change in reserve assets,T3,Balance of Payments,Change in reserve assets,2031,0.0,True
+T3 | Balance of Payments | Net errors and omissions,T3,Balance of Payments,Net errors and omissions,2031,0.0,True
+T3 | Net International Investment Position | Net investment position,T3,Net International Investment Position,Net investment position,2031,37.8,True
+T3 | Net International Investment Position | Net direct investment,T3,Net International Investment Position,Net direct investment,2031,40.3,True
+T3 | Net International Investment Position | Net portfolio investment,T3,Net International Investment Position,Net portfolio investment,2031,-96.0,True
+T3 | Net International Investment Position | Net other investment,T3,Net International Investment Position,Net other investment,2031,92.1,True
+T3 | Net International Investment Position | Reserve assets,T3,Net International Investment Position,Reserve assets,2031,1.4,True
+T3 | External Debt | Total external debt,T3,External Debt,Total external debt,2031,383.7,True
+T3 | External Debt | Non-IFSC external debt,T3,External Debt,Non-IFSC external debt,2031,85.9,True
+T3 | External Debt | IFSC external debt,T3,External Debt,IFSC external debt,2031,297.8,True
+T3 | External Debt | Short-term debt,T3,External Debt,Short-term debt,2031,166.0,True
+T3 | External Debt | Medium & long term debt,T3,External Debt,Medium & long term debt,2031,217.7,True

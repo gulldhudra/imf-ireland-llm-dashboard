@@ -1,0 +1,277 @@
+{
+  "executive_summary": {
+    "bullets": [
+      "Modified domestic demand growth is projected to moderate from almost 5 percent in 2025 to about 2½ percent in 2026–27, while headline inflation rises to 3½ percent in 2026.",
+      "The banking sector remains resilient, with Stage 3 and stage 2 loans declining to 1.4 and 7.7 percent in 2025Q4, and NPL ratios dropping to 1.5 percent in 2025.",
+      "Non-bank financial sector assets exceeded €7 trillion in 2025 (over 20 times estimated GNI*), where vulnerabilities from leverage and liquidity mismatches risk amplifying adverse shocks.",
+      "The CCyB rate is maintained at 1.5 percent, while staff advises the CBI to adjust macroprudential settings as warranted and lead the development of an NBFI macroprudential framework.",
+      "Ireland is assessed at low risk of sovereign stress, with public debt projected to decline to about 26 percent of GDP (about 50 percent of GNI*) in 2031.",
+      "The external position is preliminarily assessed to be moderately stronger than fundamentals, with the current account surplus declining to 8.2 percent of GDP in 2025.",
+      "Meeting targets to deliver 300,000 homes for 2025–2030 under the new plan requires streamlining planning processes, boosting construction productivity, crowding in private capital, and removing rent controls.",
+      "Staff recommends maintaining a broadly neutral fiscal stance, strengthening expenditure controls, broadening the tax base, using the MTFSP as a binding mechanism, and addressing non-bank data gaps."
+    ],
+    "max_bullet_words": 30,
+    "n_bullets": 8,
+    "judge": {
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "rationale": "The output accurately summarizes the main findings, key figures, outlook, risks, and staff recommendations of the report across 8 concise bullet points, adhering fully to the source text without any unsupported claims or contradictions."
+    }
+  },
+  "sections": {
+    "CONTEXT": {
+      "summary": "The highly open Irish economy has remained resilient in the face of consecutive external shocks, serving as an attractive hub for multinational enterprises (MNEs). Figure 1 outlines Governance Indicators in 2024 (Score in units of a standard normal distribution), Population with Tertiary Education in 2024 (Percent), Old Age Depency Ratio (Percent, population 65+ over population 15-64), and Capital Stock Per Capita (Thousand euro per capita, 2015 prices). Reliance on FDI and tax revenue from a handful of MNEs presents significant risks, and policy actions today shape long-run resilience.",
+      "words": 88,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 13.6,
+      "judge": {
+        "consistency": 5,
+        "completeness": 4,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output accurately reflects the source text without any factual errors or unsupported claims. Completeness is rated 4 because the summary lists the title parameters of Figure 1 verbatim rather than summarizing the specific domestic risk factors highlighted in the text (such as housing/infrastructure gaps and population aging), though the main ideas are generally covered within the tight word limit."
+      },
+      "pages": [
+        4,
+        4
+      ]
+    },
+    "RECENT DEVELOPMENTS": {
+      "summary": "The Irish economy continued to grow strongly, supported by modified domestic demand and MNEs’ exports. Real GNI* grew by about 4 percent in 2025 after 4.8 percent in 2024, while real GDP rose 12.3 percent in 2025 before contracting 17 percent (y-o-y) in 2026 Q1. Headline HICP inflation averaged 2.1 percent in 2025, reaching 3.6 percent in March 2026. Fiscal surplus reached 1.8 percent of GDP (3.3 percent of GNI*). The 2025 fiscal stance is assessed to be moderately expansionary, while the external position is preliminarily assessed to be moderately stronger than medium-term fundamentals.",
+      "words": 94,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 27.16,
+      "judge": {
+        "consistency": 5,
+        "completeness": 4,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output accurately captures the key macroeconomic figures (growth, inflation, fiscal surplus, external position assessment) within the requested word limit (<100 words). All claims and figures are directly supported by the source text."
+      },
+      "pages": [
+        5,
+        10
+      ]
+    },
+    "OUTLOOK AND RISKS": {
+      "summary": "The Irish economy is projected to grow at a slower but still robust pace, facing near-term headwinds from the war in the Middle East. MDD is projected to grow by about 2½ percent in 2026–27, moderating from 4.9 percent in 2025. Real GDP is projected to decline by about 1 percent this year and rebound by 3.7 percent in 2027, while headline inflation rises to 3½ percent this year. Staff judge that significant uncertainty remains, with risks to the growth outlook on the downside and to inflation on the upside.",
+      "words": 91,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 20.2,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output accurately summarizes the key projections (MDD, GDP, inflation) and risk assessments from the source text while adhering to the word count limit. All statements are fully supported by the text with no factual errors or internal contradictions."
+      },
+      "pages": [
+        10,
+        12
+      ]
+    },
+    "A. Fiscal Policy": {
+      "summary": "Ireland’s headline fiscal balance is projected to remain in surplus during 2026–31, masking underlying long-term fiscal vulnerabilities. Annual revenue growth averages about 6 percent during 2026–30, while the structural primary balance deteriorates by about 0.6 percent of GDP (1.0 percent of GNI*) in 2026. Public debt is projected to decline to about 26 percent of GDP (about 50 percent of GNI*) in 2031. Ireland is assessed to remain at low risk of sovereign stress. Staff recommends maintaining a broadly neutral fiscal stance, strengthening expenditure controls, broadening the tax base, and adopting a binding national fiscal rule.",
+      "words": 98,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 14.47,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output is an accurate and concise summary of Section A (Fiscal Policy). All figures, dates, projections, and recommendations match the source text exactly. No unsupported claims or factual errors were detected."
+      },
+      "pages": [
+        12,
+        17
+      ]
+    },
+    "B. Financial and Macroprudential Policies": {
+      "summary": "Systemic risks have risen relative to the last Article IV consultation, but the banking sector remains resilient and macroprudential policy settings remain appropriate. Stage 3 and stage 2 loans declined to 1.4 and 7.7 percent in 2025Q4, the CCyB rate is maintained at 1.5 percent, and non-bank financial sector assets exceeded €7 trillion in 2025 (over 20 times the estimated GNI*). Staff judge that non-bank leverage and liquidity mismatches could amplify adverse shocks, recommending that the CBI continue stress tests, adjust macroprudential settings as warranted, and maintain its leadership role in developing an NBFI macroprudential framework.",
+      "words": 96,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 15.05,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output is accurate, fully supported by the source text, covers the main findings and staff recommendations, and adheres strictly to the word count constraint (<100 words)."
+      },
+      "pages": [
+        18,
+        22
+      ]
+    },
+    "C. Structural Policy": {
+      "summary": "Profound geoeconomic shifts, housing shortages, energy bottlenecks, and a persistent productivity gap between domestic firms and MNEs call for structural reforms to safeguard Ireland’s competitiveness. Key policy targets include delivering 300,000 homes for 2025–2030, rental sector reforms starting 1 March 2026, and 90 deliverables across seven policy areas under the digital strategy. IMF staff warns that rapid AI technology risks further widening the productivity divide, and recommends removing rent controls, streamlining planning processes, reinforcing electricity grid infrastructure, broadening carbon pricing, and advancing the SIU and 28th regime.",
+      "words": 89,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 9.08,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output is an accurate and well-synthesized summary of Section C under 100 words. All facts, targets, dates, and recommendations are fully supported by the source text."
+      },
+      "pages": [
+        22,
+        25
+      ]
+    },
+    "STAFF APPRAISAL": {
+      "summary": "The Irish economy has remained resilient and is projected to grow at a slower but still robust pace. Modified domestic demand growth is projected to moderate from almost 5 percent in 2025 to about 2½ percent in 2026–27, while headline inflation is projected to rise to about 3½ percent in 2026 and return to 2 percent around 2028. The outlook is subject to elevated uncertainty, with downside risks to growth and upside risks to inflation. Staff recommends a broadly neutral fiscal stance, MTFSP budget guidance, and ongoing CBI vigilance.",
+      "words": 90,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 14.28,
+      "judge": {
+        "consistency": 5,
+        "completeness": 4,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output accurately summarizes the main projections, risk balance, and key staff recommendations from the Staff Appraisal while adhering to the strict word limit requirement. All figures and claims directly align with the source text."
+      },
+      "pages": [
+        25,
+        27
+      ]
+    },
+    "STATISTICAL TABLES": {
+      "summary": "Statistical tables project economic growth alongside declining public debt through 2031. Real GDP growth moves from 2.6 percent in 2024 to 12.3 percent in 2025, while General government gross debt falls from 43.0 percent of GDP in 2022 to 25.9 percent in 2031. For Allied Irish Banks, Bank of Ireland, and Permanent TSB, the NPL ratio drops to 1.5 percent in 2025. Footnotes state Depository Corporations Survey data are preliminary and subject to revision, while 2024 structural balances exclude CIT receipts of 2.5 percent of GDP following a Court of Justice of the EU judgment.",
+      "words": 95,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 41.03,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The summary accurately captures key metrics, projection trends, bank indicator footnotes, and specific methodological caveats from the statistical tables without any factual inaccuracies or unsupported claims."
+      },
+      "pages": [
+        28,
+        32
+      ]
+    },
+    "Annex I. GDP and Exports Growth in 2025": {
+      "summary": "Ireland achieved impressive growth in 2025, driven primarily by MNE sector exports and investment recovery. Real GDP growth stood at 12.3 percent, with value added in MNE-dominated sectors rising by 25 percent compared to less than 1 percent in domestic sectors. Real goods exports grew 23 percent, driven by pharmaceutical shipments, pushing the US share of merchandise exports to 43 percent. This structure highlights the exposure of aggregate trade, growth, and tax outcomes to firm-specific and policy-driven shocks, reaffirming the need for adjustments for MNE activities when assessing Ireland’s external position.",
+      "words": 91,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 9.05,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The summary accurately captures the key findings, data points, and policy/risk implications from the source text within the requested word limit, with full factual alignment and consistency."
+      },
+      "pages": [
+        33,
+        34
+      ]
+    },
+    "Annex II. Implementation of Past IMF Recommendations": {
+      "summary": "The authorities made considerable progress implementing 2022 FSAP policy recommendations, though revenue base broadening progress remains slow and no formal fiscal anchor has been announced. Key figures include delivering 300,000 homes for 2025–2030 under the Delivering Homes, Building Communities 2025–2030 plan, alongside the MTFSP 2025 framework and the 2026 Regulatory and Supervisory Outlook. IMF staff recommendations call for maintaining a broadly neutral fiscal stance in the MTFSP, establishing a credible fiscal anchor, continuing close monitoring of credit, liquidity and operational risks for banks, and removing rent controls.",
+      "words": 90,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 10.82,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The summary is accurate, well-structured, stays under the 100-word limit, and all claims are fully supported by the source text."
+      },
+      "pages": [
+        36,
+        36
+      ]
+    },
+    "Annex III. Risk Assessment Matrix": {
+      "summary": "Ireland is vulnerable to global trade disruptions, geopolitical tensions, commodity price volatility, cyberthreats, and MNE retrenchment due to its concentration in pharmaceutical manufacturing and ICT. Risk likelihoods reflect high (30–50 percent), medium (10–30 percent), and low (below 10 percent), with high likelihood and high expected impact attached to trade disruptions, geopolitical conflicts, commodity volatility, and volatile MNE activities. Staff recommend allowing automatic stabilizers to operate, using fiscal buffers, accelerating high-quality public investment in infrastructure and housing within a broadly neutral fiscal stance, and increasing oversight of NBFIs.",
+      "words": 89,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 11.98,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output accurately summarizes the Risk Assessment Matrix within the requested word limit. All figures, probability thresholds, risk categorizations, and staff policy recommendations are fully supported by the text without any factual errors or inconsistencies."
+      },
+      "pages": [
+        37,
+        39
+      ]
+    },
+    "Annex IV. External Sector Assessment": {
+      "summary": "Ireland’s external position in 2025 is preliminarily assessed as moderately stronger than the level implied by medium-term fundamentals and desirable policies. The CA surplus declined to 8.2 percent of GDP in 2025, compared to an EBA norm of 1.9 percent of GDP and an EBA CA gap of 6.7 percent of GDP, while the NIIP improved to -48 percent of GDP. Trade policy and investment shocks, geopolitical conflicts, and domestic supply-side constraints are key near-term risks. Staff recommends short-term fiscal policy support public investment within a broadly neutral fiscal stance.",
+      "words": 90,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 12.49,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The output is accurate, concise, and fully supported by the source text. All figures, risk assessments, and staff recommendations match the source document precisely without any factual errors or internal contradictions."
+      },
+      "pages": [
+        40,
+        41
+      ]
+    },
+    "Annex V. Sovereign Risk and Debt Sustainability Framework": {
+      "summary": "Ireland’s overall risk of sovereign stress is low, reflecting low near- and medium-term vulnerabilities alongside moderate long-term risks. Public debt fell by more than 20 pp since the onset of the pandemic, but stands elevated at 62 percent of GNI* in 2025. Total pension expenditure is projected to rise from 3.8 percent of GDP in 2022 to 6.6 percent in 2070. Staff assesses long-term risks as moderate due to unfavorable demographic trends, highlighting the need for reforms to safeguard pension system sustainability and a cost-efficient healthcare system.",
+      "words": 87,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 18.85,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The summary is concise, accurate, and completely supported by the source text without any factual or numerical discrepancies. It successfully captures the overall sovereign risk assessment, key figures, long-term demographic challenges, and staff recommendations within the requested word limit."
+      },
+      "pages": [
+        42,
+        49
+      ]
+    },
+    "Annex VI. Data Issues": {
+      "summary": "Data provision is adequate for Fund surveillance, with remaining data gaps mostly pertaining to the \"OFI residual\" segment. Under the Data Adequacy Assessment Rating, Ireland receives an overall rating of A and a median rating of A, with Monetary and Financial Statistics rated B while five sectors receive A. Ireland has subscribed to the Special Data Dissemination Standard (SDDS) since July 1996. The CBI should continue to work together with the CSO and other regulators to reduce data gaps for non-bank entities and identify foreign and domestic linkages.",
+      "words": 88,
+      "within_limit": true,
+      "repaired": false,
+      "latency_s": 21.85,
+      "judge": {
+        "consistency": 5,
+        "completeness": 5,
+        "factual_alignment": 5,
+        "unsupported_claims": [],
+        "rationale": "The summary accurately reflects the source text without any errors, invented numbers, or contradictions. It covers the overall assessment, key data adequacy ratings across sectors, SDDS subscription, data gaps, and recommended actions within the word limit."
+      },
+      "pages": [
+        50,
+        52
+      ]
+    }
+  }
+}

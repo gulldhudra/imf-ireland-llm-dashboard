@@ -1,0 +1,70 @@
+[
+  {
+    "section": "RECENT DEVELOPMENTS",
+    "version": "v1_naive",
+    "words": 305,
+    "within_limit": false,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The output is accurate, well-structured, and fully aligned with the provided source text. All figures, key trends, and economic developments across GDP/MDD, inflation, labor market, fiscal position, credit/real estate, and external accounts match the text precisely."
+  },
+  {
+    "section": "RECENT DEVELOPMENTS",
+    "version": "v2_optimised",
+    "words": 94,
+    "within_limit": true,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The output accurately captures the key macroeconomic figures (growth, inflation, fiscal surplus, external position assessment) within the requested word limit (<100 words). All claims and figures are directly supported by the source text."
+  },
+  {
+    "section": "B. Financial and Macroprudential Policies",
+    "version": "v1_naive",
+    "words": 388,
+    "within_limit": false,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 2,
+    "unsupported_claims": [
+      "The Irish government fully exited its remaining holdings in domestic banks (AIB and PTSB)."
+    ],
+    "rationale": "The output falsely claims that the government fully exited its remaining holdings in PTSB. The source explicitly states that while the government sold its remaining shares in AIB group, it only 'reached an agreement to sell its stake in PTSB'."
+  },
+  {
+    "section": "B. Financial and Macroprudential Policies",
+    "version": "v2_optimised",
+    "words": 96,
+    "within_limit": true,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The output is accurate, fully supported by the source text, covers the main findings and staff recommendations, and adheres strictly to the word count constraint (<100 words)."
+  },
+  {
+    "section": "STAFF APPRAISAL",
+    "version": "v1_naive",
+    "words": 290,
+    "within_limit": false,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The summary is accurate, complete, and fully aligned with the source text. All figures, facts, and policy recommendations directly reflect the findings in the Staff Appraisal section without any contradictions or unsupported claims."
+  },
+  {
+    "section": "STAFF APPRAISAL",
+    "version": "v2_optimised",
+    "words": 90,
+    "within_limit": true,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "rationale": "The output accurately summarizes the main projections, risk balance, and key staff recommendations from the Staff Appraisal while adhering to the strict word limit requirement. All figures and claims directly align with the source text."
+  }
+]

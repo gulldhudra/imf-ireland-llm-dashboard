@@ -1,0 +1,262 @@
+{
+  "summary": {
+    "single_query": {
+      "retrieval_recall": 1.0,
+      "answer_recall": 0.8571,
+      "faithfulness": 4.4286,
+      "completeness": 4.4286,
+      "context_tokens": 1435.1429
+    },
+    "multi_query": {
+      "retrieval_recall": 1.0,
+      "answer_recall": 0.7143,
+      "faithfulness": 3.8571,
+      "completeness": 3.8571,
+      "context_tokens": 2740.2857
+    },
+    "delta": {
+      "retrieval_recall": 0.0,
+      "answer_recall": -0.1429,
+      "faithfulness": -0.5714,
+      "completeness": -0.5714,
+      "context_tokens": 1305.1429
+    }
+  },
+  "per_question": [
+    {
+      "id": "Q1",
+      "question": "What countercyclical capital buffer (CCyB) rate is maintained, and does the IMF consider macroprudential settings appropriate?",
+      "answer": "The countercyclical capital buffer (CCyB) rate is maintained at 1.5 percent [chunk 28, 29]. Yes, the IMF staff considers macroprudential policy settings to be appropriate [chunk 28, 29, 40, 41].",
+      "n_chunks": 7,
+      "context_tokens": 2483,
+      "retrieval_recall": 1.0,
+      "answer_recall": 1.0,
+      "abstained": false,
+      "unanswerable": false,
+      "faithfulness": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "unsupported": [],
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        26,
+        27,
+        40,
+        41
+      ],
+      "n_queries": 5,
+      "variants": [
+        "countercyclical capital buffer rate maintained IMF macroprudential policy appropriateness",
+        "current CCyB setting evaluation macroprudential stance IMF staff assessment",
+        "macroprudential framework adequacy countercyclical capital buffer requirement level",
+        "IMF staff view macroprudential measures CCyB capital buffer percentage"
+      ]
+    },
+    {
+      "id": "Q2",
+      "question": "What did the 2025 EBA stress test conclude about the resilience of Irish banks?",
+      "answer": "The 2025 EBA stress test confirmed that Irish banks are resilient under a severe macroeconomic scenario [chunk 26, chunk 27].",
+      "n_chunks": 7,
+      "context_tokens": 2538,
+      "retrieval_recall": 1.0,
+      "answer_recall": 1.0,
+      "abstained": false,
+      "unanswerable": false,
+      "faithfulness": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "unsupported": [],
+      "pages": [
+        4,
+        18,
+        19,
+        20,
+        26,
+        27,
+        31,
+        32,
+        40,
+        41
+      ],
+      "n_queries": 5,
+      "variants": [
+        "2025 European Banking Authority stress test Ireland banks resilience capital adequacy",
+        "IMF staff report Ireland EBA 2025 stress testing results banking sector solvency",
+        "Ireland 2025 EBA exercise resilience Irish financial institutions adverse scenario",
+        "European Banking Authority 2025 stress test findings Irish credit institutions capital buffers"
+      ]
+    },
+    {
+      "id": "Q3",
+      "question": "What is the projected path of headline inflation, and when does it return to about 2 percent?",
+      "answer": "Not stated in the report.",
+      "n_chunks": 8,
+      "context_tokens": 3093,
+      "retrieval_recall": 1.0,
+      "answer_recall": 0.0,
+      "abstained": true,
+      "unanswerable": false,
+      "faithfulness": 1,
+      "completeness": 1,
+      "consistency": 5,
+      "unsupported": [
+        "Not stated in the report."
+      ],
+      "pages": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        28,
+        29,
+        45,
+        51
+      ],
+      "n_queries": 5,
+      "variants": [
+        "headline inflation forecast trajectory return to 2 percent target",
+        "consumer price index projection timeline convergence to two percent",
+        "disinflation path headline CPI target rate 2 percent IMF staff report",
+        "projected inflation dynamics time frame reaching 2% target"
+      ]
+    },
+    {
+      "id": "Q4",
+      "question": "What fiscal rule does IMF staff recommend for Ireland?",
+      "answer": "IMF staff recommends that the authorities adopt a credible and binding fiscal rule, preferably anchored in a long-term net debt target [chunk 23]. Staff notes that this rule could be operationalized through multi-year net expenditure ceilings [chunk 23].",
+      "n_chunks": 7,
+      "context_tokens": 2439,
+      "retrieval_recall": 1.0,
+      "answer_recall": 1.0,
+      "abstained": false,
+      "unanswerable": false,
+      "faithfulness": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "unsupported": [],
+      "pages": [
+        14,
+        15,
+        16,
+        17,
+        25,
+        26,
+        27,
+        41,
+        50,
+        51
+      ],
+      "n_queries": 5,
+      "variants": [
+        "IMF staff report Ireland recommended expenditure rules fiscal target",
+        "International Monetary Fund Ireland recommended fiscal framework rules",
+        "IMF Article IV consultation Ireland fiscal policy advice budgetary anchor",
+        "Ireland IMF staff recommendations fiscal rule expenditure ceiling"
+      ]
+    },
+    {
+      "id": "Q5",
+      "question": "How much of 2025 corporate income tax revenue does staff estimate is in excess of what domestic activity explains?",
+      "answer": "Staff estimates that about 50 percent of total CIT revenue in 2025 (€18 billion, or 5 percent of GNI*) is in excess of what can be explained by underlying domestic economic activities [chunk 15, chunk 16].",
+      "n_chunks": 8,
+      "context_tokens": 2908,
+      "retrieval_recall": 1.0,
+      "answer_recall": 1.0,
+      "abstained": false,
+      "unanswerable": false,
+      "faithfulness": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "unsupported": [],
+      "pages": [
+        8,
+        9,
+        12,
+        13,
+        14,
+        36,
+        40
+      ],
+      "n_queries": 5,
+      "variants": [
+        "IMF staff estimates 2025 corporate income tax CIT revenue excess unexplained by domestic activity",
+        "2025 corporate tax receipts windfall over domestic economic drivers staff report",
+        "percentage of 2025 CIT revenue not explained by domestic macroeconomic fundamentals staff estimate",
+        "staff report 2025 corporate income tax revenue residual above domestic activity baseline"
+      ]
+    },
+    {
+      "id": "Q6",
+      "question": "What were the shares of stage 3 and stage 2 loans in 2025Q4?",
+      "answer": "Not stated in the report.",
+      "n_chunks": 8,
+      "context_tokens": 2873,
+      "retrieval_recall": 1.0,
+      "answer_recall": 0.0,
+      "abstained": true,
+      "unanswerable": false,
+      "faithfulness": 1,
+      "completeness": 1,
+      "consistency": 5,
+      "unsupported": [
+        "Not stated in the report."
+      ],
+      "pages": [
+        8,
+        9,
+        12,
+        20,
+        21,
+        31,
+        32,
+        40,
+        41,
+        45,
+        46,
+        47
+      ],
+      "n_queries": 5,
+      "variants": [
+        "stage 2 and stage 3 loan ratio fourth quarter 2025",
+        "percentage of stage 2 stage 3 gross loans Q4 2025",
+        "proportion of underperforming stage 2 and impaired stage 3 loans end 2025",
+        "share of stage 3 nonperforming loans and stage 2 loans 2025Q4"
+      ]
+    },
+    {
+      "id": "Q8",
+      "question": "How did employment growth change between 2024 and 2025?",
+      "answer": "Employment growth slowed from 2.7 percent in 2024 to 2.2 percent in 2025, with declines recorded in some sectors, such as ICT and professional services [chunk 5].",
+      "n_chunks": 8,
+      "context_tokens": 2848,
+      "retrieval_recall": 1.0,
+      "answer_recall": 1.0,
+      "abstained": false,
+      "unanswerable": false,
+      "faithfulness": 5,
+      "completeness": 5,
+      "consistency": 5,
+      "unsupported": [],
+      "pages": [
+        7,
+        8,
+        9,
+        10,
+        33,
+        34
+      ],
+      "n_queries": 5,
+      "variants": [
+        "employment growth rate 2024 2025 comparison",
+        "labor market job creation change 2024 to 2025",
+        "annual total employment growth projection 2024 2025",
+        "changes in labor force employment expansion 2024 2025"
+      ]
+    }
+  ]
+}

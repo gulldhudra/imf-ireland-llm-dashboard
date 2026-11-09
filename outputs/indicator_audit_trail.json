@@ -1,0 +1,49 @@
+{
+  "fallback_flags": {
+    "central_bank_policy_rate_pct": {
+      "reason": "model returned null (value not stated in retrieved context)",
+      "domain_note": "Ireland is a euro-area member: the policy rate is set by the ECB Governing Council, not a national central bank, and the staff report discusses ECB easing qualitatively without stating a rate level."
+    }
+  },
+  "evidence": [
+    {
+      "field": "gdp_growth_forecast_pct",
+      "value": -0.8,
+      "reference_period": "2026",
+      "source_quote": "Real GDP 1/ 7.5 -2.5 2.6 12.3 -0.8 3.7 2.9 2.4 2.3 2.3"
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "value": 2.1,
+      "reference_period": "2025",
+      "source_quote": "Inflation (HICP) 8.1 5.2 1.3 2.1 3.5 2.6 2.0 2.1 2.0 2.0"
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "value": 1.5,
+      "reference_period": "2025Q4",
+      "source_quote": "NPL ratio 1.5 1.1 1.8"
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "value": 4.7,
+      "reference_period": "2025",
+      "source_quote": "The unemployment rate stood at 4.7 percent in 2025."
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "value": 18.1,
+      "reference_period": "2025Q4",
+      "source_quote": "Tier 1 capital ratio 18.1 19.4 17.9"
+    }
+  ],
+  "raw_model_output": {
+    "country_name": "Ireland",
+    "gdp_growth_forecast_pct": -0.8,
+    "headline_inflation_rate_pct": 2.1,
+    "central_bank_policy_rate_pct": null,
+    "non_performing_loan_ratio": 1.5,
+    "unemployment_rate_pct": 4.7,
+    "tier_1_capital_ratio": 18.1
+  }
+}

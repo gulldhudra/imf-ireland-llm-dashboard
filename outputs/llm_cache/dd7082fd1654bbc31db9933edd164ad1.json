@@ -1,0 +1,1 @@
+{"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The output accurately and fully answers the question using information directly supported by paragraph 18 of the source document.\"\n}", "latency_s": 2.23, "model": "gemini-3.5-flash", "tag": "judge-rag-multi-Q4"}

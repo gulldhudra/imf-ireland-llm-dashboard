@@ -1,0 +1,30 @@
+{
+  "country": "Ireland",
+  "report": "IMF Country Report No. 26/156",
+  "models": {
+    "generator": "gemini-3.5-flash",
+    "alt": "gemini-3.5-flash-lite",
+    "judge": "gemini-3.5-flash"
+  },
+  "embedding_model": "sentence-transformers/multi-qa-distilbert-cos-v1",
+  "chunk_tokens": 400,
+  "chunk_overlap": 50,
+  "n_chunks": 95,
+  "llm_calls": {
+    "total": 89,
+    "fresh": 0,
+    "from_cache": 89,
+    "by_model": {
+      "gemini-3.5-flash": 87,
+      "gemini-3.5-flash-lite": 2
+    },
+    "mean_latency_s": 6.3
+  },
+  "fallbacks": [
+    "central_bank_policy_rate_pct"
+  ],
+  "gold_accuracy": {
+    "GEN": 1.0,
+    "ALT": 1.0
+  }
+}

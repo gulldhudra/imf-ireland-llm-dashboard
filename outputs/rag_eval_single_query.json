@@ -1,0 +1,181 @@
+[
+  {
+    "id": "Q1",
+    "question": "What countercyclical capital buffer (CCyB) rate is maintained, and does the IMF consider macroprudential settings appropriate?",
+    "answer": "The CCyB rate is maintained at 1.5 percent [chunk 28, chunk 29]. \n\nYes, the IMF considers that macroprudential policy settings remain appropriate [chunk 28, chunk 29].",
+    "n_chunks": 4,
+    "context_tokens": 1339,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  {
+    "id": "Q2",
+    "question": "What did the 2025 EBA stress test conclude about the resilience of Irish banks?",
+    "answer": "The 2025 EBA stress test confirmed that Irish banks are resilient under a severe macroeconomic scenario [chunk 26, chunk 27].",
+    "n_chunks": 4,
+    "context_tokens": 1477,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      18,
+      19,
+      20,
+      40,
+      41
+    ]
+  },
+  {
+    "id": "Q3",
+    "question": "What is the projected path of headline inflation, and when does it return to about 2 percent?",
+    "answer": "Headline inflation is projected to rise to 3½ percent this year and return to 2 percent around 2028 [chunk 11].",
+    "n_chunks": 4,
+    "context_tokens": 1504,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      6,
+      7,
+      10,
+      12
+    ]
+  },
+  {
+    "id": "Q4",
+    "question": "What fiscal rule does IMF staff recommend for Ireland?",
+    "answer": "IMF staff recommends that the authorities adopt a \"credible and binding fiscal rule, preferably anchored in a long-term net debt target\" [chunk 23]. Staff suggests that this rule \"could be operationalized through multi-year net expenditure ceilings\" [chunk 23]. Additionally, staff recommends legislating this national fiscal framework and having the MTFSP act as a binding mechanism on spending ceilings over the medium term [chunk 23].",
+    "n_chunks": 4,
+    "context_tokens": 1266,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      14,
+      15,
+      17,
+      26,
+      27,
+      41
+    ]
+  },
+  {
+    "id": "Q5",
+    "question": "How much of 2025 corporate income tax revenue does staff estimate is in excess of what domestic activity explains?",
+    "answer": "Staff estimates that about 50 percent of total CIT revenue in 2025 (€18 billion, or 5 percent of GNI*) is in excess of what can be explained by underlying domestic economic activities [chunk 15, chunk 16].",
+    "n_chunks": 4,
+    "context_tokens": 1434,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      8,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "id": "Q6",
+    "question": "What were the shares of stage 3 and stage 2 loans in 2025Q4?",
+    "answer": "Not stated in the report.",
+    "n_chunks": 4,
+    "context_tokens": 1591,
+    "retrieval_recall": 1.0,
+    "answer_recall": 0.0,
+    "abstained": true,
+    "unanswerable": false,
+    "faithfulness": 1,
+    "completeness": 1,
+    "consistency": 5,
+    "unsupported": [
+      "Not stated in the report."
+    ],
+    "pages": [
+      30,
+      31,
+      45,
+      46,
+      47,
+      51
+    ]
+  },
+  {
+    "id": "Q7",
+    "question": "What level of the ECB deposit facility rate does the report state?",
+    "answer": "Not stated in the report.",
+    "n_chunks": 4,
+    "context_tokens": 1452,
+    "retrieval_recall": NaN,
+    "answer_recall": NaN,
+    "abstained": true,
+    "unanswerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      19,
+      20,
+      31,
+      32,
+      40,
+      41,
+      43,
+      44
+    ]
+  },
+  {
+    "id": "Q8",
+    "question": "How did employment growth change between 2024 and 2025?",
+    "answer": "Employment growth slowed from 2.7 percent in 2024 to 2.2 percent in 2025 [chunk 5].",
+    "n_chunks": 4,
+    "context_tokens": 1435,
+    "retrieval_recall": 1.0,
+    "answer_recall": 1.0,
+    "abstained": false,
+    "unanswerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "consistency": 5,
+    "unsupported": [],
+    "pages": [
+      7,
+      8,
+      33,
+      34
+    ]
+  }
+]

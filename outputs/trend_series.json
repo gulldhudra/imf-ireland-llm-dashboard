@@ -1,0 +1,13 @@
+{
+  "series": [
+    "T1 | Output/Demand | Real GDP",
+    "T1 | Prices | Inflation (HICP)",
+    "T1 | Employment | Unemployment rate (percent)",
+    "T1 | Public Finance, General Government | Overall balance",
+    "T1 | Public Finance, General Government | General government gross debt",
+    "T1 | Balance of Payments | Current account balance",
+    "T5 |  | NPL ratio",
+    "T5 |  | CT1 ratio"
+  ],
+  "rationale": "Selected 8 core macroeconomic and financial stability indicators representing economic growth (Real GDP), price stability (Inflation HICP), labor market dynamics (Unemployment rate), fiscal health (Overall balance and General government gross debt), external sector balance (Current account balance), and banking sector soundness (NPL ratio for asset quality and CT1 ratio for capital adequacy)."
+}

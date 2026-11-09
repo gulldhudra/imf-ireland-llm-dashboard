@@ -1,0 +1,1 @@
+{"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The summary is accurate, well-structured, stays under the 100-word limit, and all claims are fully supported by the source text.\"\n}", "latency_s": 3.58, "model": "gemini-3.5-flash", "tag": "judge-sum-Annex II. Implementa"}

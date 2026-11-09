@@ -1,0 +1,1 @@
+{"text": "{\n  \"consistency\": 5,\n  \"completeness\": 5,\n  \"factual_alignment\": 5,\n  \"unsupported_claims\": [],\n  \"rationale\": \"The output is completely factual, accurately reflecting footnote 4 of paragraph 11 of the report without any distortions or unsupported claims.\"\n}", "latency_s": 2.06, "model": "gemini-3.5-flash", "tag": "judge-rag-single-Q5"}

@@ -1,0 +1,7 @@
+pypdf
+google-genai
+sentence-transformers
+faiss-cpu
+pandas
+matplotlib
+pydantic

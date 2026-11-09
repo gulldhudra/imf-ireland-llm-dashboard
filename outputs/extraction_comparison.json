@@ -1,0 +1,256 @@
+{
+  "GEN": {
+    "model": "gemini-3.5-flash",
+    "raw": {
+      "country_name": "Ireland",
+      "gdp_growth_forecast_pct": -0.8,
+      "headline_inflation_rate_pct": 2.1,
+      "central_bank_policy_rate_pct": null,
+      "non_performing_loan_ratio": 1.5,
+      "unemployment_rate_pct": 4.7,
+      "tier_1_capital_ratio": 18.1
+    },
+    "evidence": [
+      {
+        "field": "gdp_growth_forecast_pct",
+        "value": -0.8,
+        "reference_period": "2026",
+        "source_quote": "Real GDP 1/ 7.5 -2.5 2.6 12.3 -0.8 3.7 2.9 2.4 2.3 2.3"
+      },
+      {
+        "field": "headline_inflation_rate_pct",
+        "value": 2.1,
+        "reference_period": "2025",
+        "source_quote": "Inflation (HICP) 8.1 5.2 1.3 2.1 3.5 2.6 2.0 2.1 2.0 2.0"
+      },
+      {
+        "field": "non_performing_loan_ratio",
+        "value": 1.5,
+        "reference_period": "2025Q4",
+        "source_quote": "NPL ratio 1.5 1.1 1.8"
+      },
+      {
+        "field": "unemployment_rate_pct",
+        "value": 4.7,
+        "reference_period": "2025",
+        "source_quote": "The unemployment rate stood at 4.7 percent in 2025."
+      },
+      {
+        "field": "tier_1_capital_ratio",
+        "value": 18.1,
+        "reference_period": "2025Q4",
+        "source_quote": "Tier 1 capital ratio 18.1 19.4 17.9"
+      }
+    ],
+    "final": {
+      "country_name": "Ireland",
+      "gdp_growth_forecast_pct": -0.8,
+      "headline_inflation_rate_pct": 2.1,
+      "central_bank_policy_rate_pct": -1.0,
+      "non_performing_loan_ratio": 1.5,
+      "unemployment_rate_pct": 4.7,
+      "tier_1_capital_ratio": 18.1
+    },
+    "flags": {
+      "central_bank_policy_rate_pct": {
+        "reason": "model returned null (value not stated in retrieved context)",
+        "domain_note": "Ireland is a euro-area member: the policy rate is set by the ECB Governing Council, not a national central bank, and the staff report discusses ECB easing qualitatively without stating a rate level."
+      }
+    },
+    "latency_s": 8.42,
+    "audit": {
+      "fields": [
+        {
+          "field": "gdp_growth_forecast_pct",
+          "extracted_value": -0.8,
+          "verdict": "correct",
+          "value_found_in_source": -0.8,
+          "comment": "Real GDP growth projection for 2026 is -0.8% as reported in Table 1."
+        },
+        {
+          "field": "headline_inflation_rate_pct",
+          "extracted_value": 2.1,
+          "verdict": "correct",
+          "value_found_in_source": 2.1,
+          "comment": "Headline HICP inflation for 2025 was 2.1% as stated in paragraph 3 and Table 1."
+        },
+        {
+          "field": "central_bank_policy_rate_pct",
+          "extracted_value": -1.0,
+          "verdict": "acceptable_fallback",
+          "value_found_in_source": null,
+          "comment": "The exact central bank policy rate level is not specified in the text."
+        },
+        {
+          "field": "non_performing_loan_ratio",
+          "extracted_value": 1.5,
+          "verdict": "correct",
+          "value_found_in_source": 1.5,
+          "comment": "The NPL ratio for domestic retail banks in 2025Q4 was 1.5% as shown in Figure 10 table and Table 5."
+        },
+        {
+          "field": "unemployment_rate_pct",
+          "extracted_value": 4.7,
+          "verdict": "correct",
+          "value_found_in_source": 4.7,
+          "comment": "The 2025 unemployment rate was 4.7% as stated in paragraph 4 and Table 1."
+        },
+        {
+          "field": "tier_1_capital_ratio",
+          "extracted_value": 18.1,
+          "verdict": "correct",
+          "value_found_in_source": 18.1,
+          "comment": "The Tier 1 capital ratio for domestic retail banks in 2025Q4 was 18.1% as reported in Figure 10 table."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "notes": "All indicators are accurately extracted according to definitions and fully backed by the source document."
+    },
+    "gold": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 1.0,
+      "central_bank_policy_rate_pct": 1.0,
+      "non_performing_loan_ratio": 1.0,
+      "unemployment_rate_pct": 1.0,
+      "tier_1_capital_ratio": 1.0
+    },
+    "gold_accuracy": 1.0,
+    "schema_valid": true,
+    "judge_gold_agreement": 1.0
+  },
+  "ALT": {
+    "model": "gemini-3.5-flash-lite",
+    "raw": {
+      "country_name": "Ireland",
+      "gdp_growth_forecast_pct": -0.8,
+      "headline_inflation_rate_pct": 2.1,
+      "central_bank_policy_rate_pct": null,
+      "non_performing_loan_ratio": 1.5,
+      "unemployment_rate_pct": 4.7,
+      "tier_1_capital_ratio": 18.1
+    },
+    "evidence": [
+      {
+        "field": "country_name",
+        "value": null,
+        "reference_period": "2022-31",
+        "source_quote": "Table 1. Ireland: Selected Economic Indicators, 2022–31"
+      },
+      {
+        "field": "gdp_growth_forecast_pct",
+        "value": -0.8,
+        "reference_period": "2026",
+        "source_quote": "Real GDP ... -0.8"
+      },
+      {
+        "field": "headline_inflation_rate_pct",
+        "value": 2.1,
+        "reference_period": "2025",
+        "source_quote": "Inflation (HICP) ... 2.1"
+      },
+      {
+        "field": "central_bank_policy_rate_pct",
+        "value": null,
+        "reference_period": "N/A",
+        "source_quote": ""
+      },
+      {
+        "field": "non_performing_loan_ratio",
+        "value": 1.5,
+        "reference_period": "2025Q4",
+        "source_quote": "NPL ratio 1.5"
+      },
+      {
+        "field": "unemployment_rate_pct",
+        "value": 4.7,
+        "reference_period": "2025",
+        "source_quote": "The unemployment rate stood at 4.7 percent in 2025."
+      },
+      {
+        "field": "tier_1_capital_ratio",
+        "value": 18.1,
+        "reference_period": "2025Q4",
+        "source_quote": "Tier 1 capital ratio 18.1"
+      }
+    ],
+    "final": {
+      "country_name": "Ireland",
+      "gdp_growth_forecast_pct": -0.8,
+      "headline_inflation_rate_pct": 2.1,
+      "central_bank_policy_rate_pct": -1.0,
+      "non_performing_loan_ratio": 1.5,
+      "unemployment_rate_pct": 4.7,
+      "tier_1_capital_ratio": 18.1
+    },
+    "flags": {
+      "central_bank_policy_rate_pct": {
+        "reason": "model returned null (value not stated in retrieved context)",
+        "domain_note": "Ireland is a euro-area member: the policy rate is set by the ECB Governing Council, not a national central bank, and the staff report discusses ECB easing qualitatively without stating a rate level."
+      }
+    },
+    "latency_s": 1.75,
+    "audit": {
+      "fields": [
+        {
+          "field": "gdp_growth_forecast_pct",
+          "extracted_value": -0.8,
+          "verdict": "correct",
+          "value_found_in_source": -0.8,
+          "comment": "Real GDP growth projection for 2026 is -0.8% as reported in Table 1."
+        },
+        {
+          "field": "headline_inflation_rate_pct",
+          "extracted_value": 2.1,
+          "verdict": "correct",
+          "value_found_in_source": 2.1,
+          "comment": "Headline HICP inflation for 2025 was 2.1% as stated in paragraph 3 and Table 1."
+        },
+        {
+          "field": "central_bank_policy_rate_pct",
+          "extracted_value": -1.0,
+          "verdict": "acceptable_fallback",
+          "value_found_in_source": null,
+          "comment": "The exact central bank policy rate level is not specified in the text."
+        },
+        {
+          "field": "non_performing_loan_ratio",
+          "extracted_value": 1.5,
+          "verdict": "correct",
+          "value_found_in_source": 1.5,
+          "comment": "The NPL ratio for domestic retail banks in 2025Q4 was 1.5% as shown in Figure 10 table and Table 5."
+        },
+        {
+          "field": "unemployment_rate_pct",
+          "extracted_value": 4.7,
+          "verdict": "correct",
+          "value_found_in_source": 4.7,
+          "comment": "The 2025 unemployment rate was 4.7% as stated in paragraph 4 and Table 1."
+        },
+        {
+          "field": "tier_1_capital_ratio",
+          "extracted_value": 18.1,
+          "verdict": "correct",
+          "value_found_in_source": 18.1,
+          "comment": "The Tier 1 capital ratio for domestic retail banks in 2025Q4 was 18.1% as reported in Figure 10 table."
+        }
+      ],
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "notes": "All indicators are accurately extracted according to definitions and fully backed by the source document."
+    },
+    "gold": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 1.0,
+      "central_bank_policy_rate_pct": 1.0,
+      "non_performing_loan_ratio": 1.0,
+      "unemployment_rate_pct": 1.0,
+      "tier_1_capital_ratio": 1.0
+    },
+    "gold_accuracy": 1.0,
+    "schema_valid": true,
+    "judge_gold_agreement": 1.0
+  }
+}
